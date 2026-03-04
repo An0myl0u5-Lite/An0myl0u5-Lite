@@ -21,6 +21,8 @@
 </p>
 
 I design and build decentralised infrastructure — governance, identity, payments, booking systems,complex algorithms and tools for social and political/ governance, privacy and accountability infrastructure for people who've been excluded from the systems that govern them.
+
+
 An0m5 ARC is the open research platform that is designed to allow anyone to edit research with open source decentralised - perpetual peer review mechanisms - all participants will have attributions in the research and meta data forever, even if just a spelling correction 😀  we can have contributors who specifically do simple things that do not include research in the curation sense. 
 Primarily intended for the socio political, economic, human rights avenues it is not restricted to that research - technology, sciences and anything else is also welcome.
 
