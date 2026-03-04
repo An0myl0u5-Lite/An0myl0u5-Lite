@@ -70,27 +70,29 @@ Everything here is built without formal education, without funding, and (for a l
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/An0myl0u5-Lite/an0myl0u5_net">An0myl0u5 Network</a></h3>
-      Decentralised governance platform built as a non-disruptive democratic overlay — working with existing structures, not against them. Geographic namespace sharding, zero-knowledge voting, and hardware-attested identity at its core.
+      Decentralised governance platform built as a non-disruptive democratic overlay. A mathematical solution to systemic corruption, providing a resilient layer for global democratic participation.
     </td>
     <td width="50%">
       <h3><a href="https://github.com/An0myl0u5-Research">An0m5-ARC</a></h3>
-      Open research collective for annotated, signed, community-verified knowledge. Deterministic validation algorithms. Academic citation meets version control — every contribution permanently attributed.
+      Open research collective for annotated, signed, community-verified knowledge. Academic citation meets version control — every contribution permanently attributed and citable via ORCID.
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/An0myl0u5-Lite/DentalBooking">NHS Dental Booking System</a></h3>
-      Geographic waiting list management for NHS dental services. Leaflet-powered location mapping, wait time visualisation, and patient journey tooling built on the official NHS design system.
+      Federated waiting list management for NHS dental services. Geographic allocation algorithms and clinical urgency prioritisation designed to solve the access crisis. Works alongside existing practice software.
     </td>
     <td width="50%">
       <h3><a href="https://github.com/An0myl0u5-Lite/Holiday-SmileV2">HolidaySmile 😃</a></h3>
-      Capturing small travel moments. Not big trips — the little wins. Light, playful, human. Because joy doesn't need to be Instagram-filtered.
+      Custom package builder for travel. Built for accessibility and user-defined constraints. Proprietary pricing and availability algorithms designed for global scale from day one.
     </td>
   </tr>
   <tr>
     <td width="50%" colspan="2">
-      <h3><a href="https://github.com/An0myl0u5-Lite/An0myl0u5_Wallet_V2">An0myl0u5 Wallet V2</a></h3>
-      The user-facing layer of the An0myl0u5 Network. Multi-chain governance wallet with KYsCeeD verified identity, DIDs, zero-knowledge voting, and trust-scored peer connections. Built on a decentralised real-world voting blockchain with post-count, user-verifiable votes. IDNMS (InterDimensional Namespaces) — a custom distributed storage protocol — underpins the data layer. Visualise your node, shard, and governance connections across the network.
+      <h3><a href="https://github.com/An0myl0u5-Lite/An0myl0u5_Wallet_V2">An0myl0u5 Ωm3gA</a></h3>
+      The governance and identity interface for the An0myl0u5 Network. Post-quantum security, zero-knowledge voting with verifiable results, and hardware-attested identity. 
+      <br><br>
+      The network supports a theoretical 3.8B+ TPS, enabling global-scale democratic utility. From the voiceless to dominion.
     </td>
   </tr>
 </table>
@@ -100,7 +102,7 @@ Everything here is built without formal education, without funding, and (for a l
   <img src="https://img.shields.io/badge/An0m5--ARC-8957e5?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NHS_Dental-005EB8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/HolidaySmile_%F0%9F%98%83-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Wallet_V2-3178C6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%CE%A9M3GA-3178C6?style=for-the-badge" />
 </p>
 
 ---
@@ -143,7 +145,7 @@ Everything here is built without formal education, without funding, and (for a l
   <a href="https://github.com/An0myl0u5-Research">
     <img src="https://img.shields.io/badge/An0myl0u5--Research-161b22?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Email-an0myl0u5.org_(updating_soon)-39d353?style=for-the-badge&logo=mail.ru&logoColor=white" />
+  <img src="https://img.shields.io/badge/ORCID-0009--0001--8919--4846-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
   <img src="https://img.shields.io/badge/Web-an0myl0u5.network_(updating_soon)-0b7285?style=for-the-badge&logo=firefox&logoColor=white" />
 </p>
 
@@ -152,7 +154,7 @@ Everything here is built without formal education, without funding, and (for a l
   <br>
 
   - Diagnosed autistic (Jan 2023) — systems thinking is the superpower, not the obstacle
-  - Built the entire An0myl0u5 prototype on a Samsung S20 mobile device — constraints breed creativity
+  - Built the entire An0myl0u5 prototype on a mobile device — constraints breed creativity
   - Self-taught across blockchain, cryptography, distributed systems, economics, and political science
   - Gaming community: [AMS] An0myl0u5 on Discord
   - Believes governance infrastructure should be a public good, not a product
