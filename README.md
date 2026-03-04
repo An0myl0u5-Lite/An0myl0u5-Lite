@@ -20,7 +20,9 @@
   <img src="https://img.shields.io/badge/Based_in-UK%20%F0%9F%87%AC%F0%9F%87%A7-39d353?style=for-the-badge" alt="UK"/>
 </p>
 
-I design and build decentralised infrastructure — governance, identity, payments, and tools for people who've been excluded from the systems that govern them.
+I design and build decentralised infrastructure — governance, identity, payments, booking systems,complex algorithms and tools for social and political/ governance, privacy and accountability infrastructure for people who've been excluded from the systems that govern them.
+An0m5 ARC is the open research platform that is designed to allow anyone to edit research with open source decentralised - perpetual peer review mechanisms - all participants will have attributions in the research and meta data forever, even if just a spelling correction 😀  we can have contributors who specifically do simple things that do not include research in the curation sense. 
+Primarily intended for the socio political, economic, human rights avenues it is not restricted to that research - technology, sciences and anything else is also welcome.
 
 Everything here is built without formal education, without funding, and (for a long time) without a laptop. The architecture is the message: if one person on a phone can build it, imagine what a community can do.
 
@@ -77,7 +79,11 @@ Everything here is built without formal education, without funding, and (for a l
     <td width="50%">
       <h3><a href="https://github.com/An0myl0u5-Lite/DentalBooking">NHS Dental Booking System</a></h3>
       Federated waiting list management for NHS dental services. Geographic allocation algorithms and clinical urgency prioritisation designed to solve the access crisis. Works alongside existing practice software.
-    </td>
+Designed specifically to close the door on dental fraud and and provide access to all patients. 
+Algorithm models projected to recover NHS shortfalls and access issues within 4-5 years with massive ROI% for practices amd ICB's.
+Technical trickery means its pretty much plug and play and compatible with most private dental bookings systems as currently configured, with standalone abilities and private comercial contracts and enterprise grade branded versions separate to NHS.
+this creates 
+    </d>
     <td width="50%">
       <h3><a href="https://github.com/An0myl0u5-Lite/Holiday-SmileV2">HolidaySmile 😃</a></h3>
       Custom package builder for travel. Built for accessibility and user-defined constraints. Proprietary pricing and availability algorithms designed for global scale from day one.
@@ -86,7 +92,7 @@ Everything here is built without formal education, without funding, and (for a l
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/An0myl0u5-Lite/An0myl0u5_Wallet_V2">An0myl0u5 Ωm3gA</a></h3>
-      The governance and identity interface for the An0myl0u5 Network. Post-quantum security, zero-knowledge voting with verifiable results, and hardware-attested identity.<br/><br/>The network supports a theoretical 3.8B+ TPS, enabling global-scale democratic utility. From the voiceless to dominion. <img width="800" alt="The An0myl0u5 Network blockchain metaphor" src="https://github.com/user-attachments/assets/19d9b9f5-89cb-4933-ad7b-cc10990b441c" />
+      The governance and identity interface for the An0myl0u5 Network. Post-quantum security, zero-knowledge voting with verifiable results, and insane transaction capability, brings web3 to the real world with entirely new web4 infrastructure.<br/><br/>The network supports a theoretical 3.8B+ TPS, enabling global-scale democratic utility. From the voiceless to dominion. <img width="800" alt="The An0myl0u5 Network blockchain metaphor" src="https://github.com/user-attachments/assets/19d9b9f5-89cb-4933-ad7b-cc10990b441c" />
     </td>
     <td width="50%"></td>
   </tr>
@@ -142,12 +148,12 @@ Everything here is built without formal education, without funding, and (for a l
 
 💡 More About Me
 
-- Diagnosed autistic (Jan 2023) — systems thinking is the superpower, not the obstacle
-- Built the entire An0myl0u5 prototype on a mobile device — constraints breed creativity
-- Self-taught across blockchain, cryptography, distributed systems, economics, and political science
-- Gaming community: [AMS] An0myl0u5 on Discord
-- Believes governance infrastructure should be a public good, not a product
-- Anonymous by design. Attributed by choice.
+- Diagnosed autistic — systems thinking is the superpower, not the obstacle
+- Built the entire An0myl0u5 prototype on a samsung s20 mobile device — constraints breed creativity
+- Self-taught across blockchain, cryptography, distributed systems, economics, and political science amongst other interests
+- Community: [AMS] An0myl0u5 on Discord 
+- Believes governance infrastructure should be a public good, not a product Governance should be 1 person 1 vote provable attestations with post count verification - each person can check their vote was counted true and the vote ledger is within tolerances.
+- Anonymous by design. Attributed by choice. privacy and Accountability by necessity
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=100&section=footer" />
