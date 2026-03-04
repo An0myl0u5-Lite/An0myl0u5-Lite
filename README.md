@@ -92,7 +92,7 @@ Everything here is built without formal education, without funding, and (for a l
       <h3><a href="https://github.com/An0myl0u5-Lite/An0myl0u5_Wallet_V2">An0myl0u5 Ωm3gA</a></h3>
       The governance and identity interface for the An0myl0u5 Network. Post-quantum security, zero-knowledge voting with verifiable results, and hardware-attested identity. 
       <br><br>
-      The network supports a theoretical 3.8B+ TPS, enabling global-scale democratic utility. From the voiceless to dominion.
+      The network supports a theoretical 3.8B+ TPS, enabling global-scale democratic utility. From the voiceless to dominion. <img width="800" alt="The An0myl0u5 Network blockchain metaphor" src="https://github.com/user-attachments/assets/19d9b9f5-89cb-4933-ad7b-cc10990b441c" />
     </td>
   </tr>
 </table>
