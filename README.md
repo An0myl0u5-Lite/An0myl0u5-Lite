@@ -148,6 +148,13 @@ this creates
   <a href="https://an0myl0u5.network_(updating_soon)"><img src="https://img.shields.io/badge/Web-an0myl0u5.network_(updating_soon)-0b7285?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
+
+### Defensive Threat Intel
+- Research notes on GitHub supply-chain bait (fake “CVE PoC” repos, honeytraps, loader patterns)
+- Practical detection checklists for students and analysts
+- Repository: OSINT-OpSec (defensive-only, no PoCs)
+
+
 💡 More About Me
 
 - Diagnosed autistic — systems thinking is the superpower, not the obstacle
