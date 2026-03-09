@@ -29,7 +29,9 @@ Primarily intended for the socio political, economic, human rights avenues it is
 Everything here is built without formal education, without funding, and (for a long time) without a laptop. The architecture is the message: if one person on a phone can build it, imagine what a community can do.
 
 ```
-
+┌─────────────────────────────────────────────────────────────┐
+│ "Don't just vibe your code. Code your vibe." — An0myl0u5 │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 <p align="center">
@@ -41,9 +43,7 @@ Everything here is built without formal education, without funding, and (for a l
 </p>
 
 
-┌─────────────────────────────────────────────────────────────┐
-│ "Don't just vibe your code. Code your vibe." — An0myl0u5 │
-└─────────────────────────────────────────────────────────────┘
+
 
 ---
 
