@@ -34,6 +34,16 @@ Everything here is built without formal education, without funding, and (for a l
 └─────────────────────────────────────────────────────────────┘
 ```
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/An0myl0u5_Network-0b7285?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/An0m5--ARC-8957e5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NHS_Dental-005EB8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HolidaySmile_%F0%9F%98%83-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%CE%A9M3GA-3178C6?style=for-the-badge" />
+</p>
+
+
 ---
 
 ## 🛠 Tech Stack
@@ -100,13 +110,7 @@ this creates
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/An0myl0u5_Network-0b7285?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/An0m5--ARC-8957e5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NHS_Dental-005EB8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HolidaySmile_%F0%9F%98%83-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%CE%A9M3GA-3178C6?style=for-the-badge" />
-</p>
+
 
 ---
 
