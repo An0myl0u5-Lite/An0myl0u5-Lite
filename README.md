@@ -29,6 +29,9 @@ Primarily intended for the socio political, economic, human rights avenues it is
 Everything here is built without formal education, without funding, and (for a long time) without a laptop. The architecture is the message: if one person on a phone can build it, imagine what a community can do.
 
 ```
+
+```
+
 <p align="center">
   <img src="https://img.shields.io/badge/An0myl0u5_Network-0b7285?style=for-the-badge" />
   <img src="https://img.shields.io/badge/An0m5--ARC-8957e5?style=for-the-badge" />
@@ -36,9 +39,6 @@ Everything here is built without formal education, without funding, and (for a l
   <img src="https://img.shields.io/badge/HolidaySmile_%F0%9F%98%83-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/%CE%A9M3GA-3178C6?style=for-the-badge" />
 </p>
-
-```
-
 
 
 ┌─────────────────────────────────────────────────────────────┐
