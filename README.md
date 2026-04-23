@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Self-taught.+Self-funded.+Self-determined.;Building+governance+infrastructure+as+a+public+good.;Don%27t+just+vibe+your+code.+Code+your+vibe." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Self-taught.+Self-funded.+Self-determined.;Governance+infrastructure+as+a+public+good.;Don%27t+just+vibe+your+code.+Code+your+vibe." alt="Typing SVG" />
   </a>
 </p>
 
