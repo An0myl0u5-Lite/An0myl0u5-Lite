@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=200&section=header&text=An0myl0u5&fontSize=60&fontColor=39d353&desc=Don%27t%20just%20vibe%20your%20code.%20Code%20your%20vibe.&descSize=18&descAlignY=75&animation=fadeIn" width="100%"/>
+  <img src="https://project-r28vs.vercel.app/api/hero?preset=research-purple&text=An0myl0u5&sub=Don't+just+vibe+your+code.+Code+your+vibe." width="100%"/>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Based_in-UK%20%F0%9F%87%AC%F0%9F%87%A7-39d353?style=for-the-badge" alt="UK"/>
 </p>
 
-I design and build decentralised infrastructure — governance, identity, payments, booking systems,complex algorithms and tools for social and political/ governance, privacy and accountability infrastructure for people who've been excluded from the systems that govern them.
+I design and build decentralised infrastructure — governance, identity, payments, booking systems, complex algorithms and tools for social and political/governance, privacy and accountability infrastructure for people who've been excluded from the systems that govern them.
 
 
 An0m5 ARC is the open research platform that is designed to allow anyone to edit research with open source decentralised - perpetual peer review mechanisms - all participants will have attributions in the research and meta data forever, even if just a spelling correction 😀  we can have contributors who specifically do simple things that do not include research in the curation sense. 
@@ -92,10 +92,9 @@ Everything here is built without formal education, without funding, and (for a l
     <td width="50%">
       <h3><a href="https://github.com/An0myl0u5-Lite/DentalBooking">NHS Dental Booking System</a></h3>
       Federated waiting list management for NHS dental services. Geographic allocation algorithms and clinical urgency prioritisation designed to solve the access crisis. Works alongside existing practice software.
-Designed specifically to close the door on dental fraud and and provide access to all patients. 
-Algorithm models projected to recover NHS shortfalls and access issues within 4-5 years with massive ROI% for practices amd ICB's.
-Technical trickery means its pretty much plug and play and compatible with most private dental bookings systems as currently configured, with standalone abilities and private comercial contracts and enterprise grade branded versions separate to NHS.
-this creates 
+Designed specifically to close the door on dental fraud and provide access to all patients. 
+Algorithm models projected to recover NHS shortfalls and access issues within 4-5 years with massive ROI% for practices and ICB's.
+Technical trickery means its pretty much plug and play and compatible with most private dental bookings systems as currently configured, with standalone abilities and private commercial contracts and enterprise grade branded versions separate to NHS.
     </td>
     <td width="50%">
       <h3><a href="https://github.com/An0myl0u5-Lite/Holiday-SmileV2">HolidaySmile 😃</a></h3>
@@ -136,6 +135,18 @@ this creates
 
 ---
 
+## 🔬 Engineering Veracity
+
+<p align="center">
+  <img src="https://project-r28vs.vercel.app/api/veracity?username=An0myl0u5-Lite&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://project-r28vs.vercel.app/api/an0matr1x?lines=AN0MYL0U5;RESEARCH;COLLECTIVE&preset=research-purple" />
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -166,9 +177,9 @@ this creates
 - Built the entire An0myl0u5 prototype on a samsung s20 mobile device — constraints breed creativity
 - Self-taught across blockchain, cryptography, distributed systems, economics, and political science amongst other interests
 - Community: [AMS] An0myl0u5 on Discord 
-- Believes governance infrastructure should be a public good, not a product Governance should be 1 person 1 vote provable attestations with post count verification - each person can check their vote was counted true and the vote ledger is within tolerances.
-- Anonymous by design. Attributed by choice. privacy and Accountability by necessity
+- Believes governance infrastructure should be a public good, not a product. Governance should be 1 person 1 vote provable attestations with post count verification - each person can check their vote was counted true and the vote ledger is within tolerances.
+- Anonymous by design. Attributed by choice. Privacy and Accountability by necessity
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=100&section=footer" />
+  <img src="https://project-r28vs.vercel.app/api/hero?preset=research-purple&section=footer&height=100&rain=false" width="100%"/>
 </p>
