@@ -146,7 +146,7 @@ Technical trickery means its pretty much plug and play and compatible with most 
 </p>
 
 <p align="center">
-  <img src="https://project-r28vs.vercel.app/api/an0matr1x?lines=AN0MYL0U5;RESEARCH;COLLECTIVE&preset=research-purple" />
+  <img src="https://project-r28vs.vercel.app/api/an0matr1x?lines=An0myL0u5;Research;Collective&preset=research-purple" />
 </p>
 
 ---
