@@ -118,11 +118,11 @@ Technical trickery means its pretty much plug and play and compatible with most 
 
 <p align="center">
   <img src="https://project-r28vs.vercel.app/api?username=An0myl0u5-Lite&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=161b22&icon_color=39d353&title_color=39d353&count_private=true" />
-  <img src="https://project-r28vs.vercel.app/api/top-langs/?username=An0myl0u5-Lite&layout=compact&theme=github_dark&bg_color=0d1117&border_color=161b22&title_color=39d353&langs_count=8" />
+  <img src="https://project-r28vs.vercel.app/api/top-langs/?username=An0myl0u5-Lite&layout=compact&theme=github_dark&bg_color=0d1117&border_color=161b22&title_color=39d353&langs_count=8&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://project-r28vs.vercel.app/api/profile-report?username=An0myl0u5-Lite&theme=github_dark&bg_color=0d1117&border_color=161b22&title_color=39d353" />
+  <img src="https://project-r28vs.vercel.app/api/profile-report?username=An0myl0u5-Lite&theme=github_dark&bg_color=0d1117&border_color=161b22&title_color=39d353&count_private=true" />
 </p>
 
 <p align="center">
@@ -142,11 +142,11 @@ Technical trickery means its pretty much plug and play and compatible with most 
 ## 🔬 Engineering Veracity
 
 <p align="center">
-  <img src="https://project-r28vs.vercel.app/api/veracity?username=An0myl0u5-Lite&theme=github_dark&score_window=all&decay_mode=exponential&show_icons=true&bg_color=0d1117&border_color=161b22&title_color=39d353" />
+  <img src="https://project-r28vs.vercel.app/api/veracity?username=An0myl0u5-Lite&theme=github_dark&score_window=all&decay_mode=exponential&show_icons=true&bg_color=0d1117&border_color=161b22&title_color=39d353&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://project-r28vs.vercel.app/api/an0matr1x?lines=An0myL0u5;Research;Collective&preset=research-purple" />
+  <img src="https://project-r28vs.vercel.app/api/an0matr1x?lines=AN0MYL0U5;RESEARCH;COLLECTIVE&preset=research-purple" />
 </p>
 
 ---
@@ -163,7 +163,7 @@ Technical trickery means its pretty much plug and play and compatible with most 
 
 <p align="center">
   <a href="https://discord.gg/"><img src="https://img.shields.io/badge/Discord-%5BAMS%5D%20An0myl0u5-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://github.com/An0myl0u5-Research"><img src="https://img.shields.io/badge/Research_Org-An0myl0u5--Research-8957e5?style=for-the-badge&logo=github\" /></a>
+  <a href="https://github.com/An0myl0u5-Research"><img src="https://img.shields.io/badge/Research_Org-An0myl0u5--Research-8957e5?style=for-the-badge&logo=github" /></a>
   <a href="https://orcid.org/0009-0001-8919-4846"><img src="https://img.shields.io/badge/ORCID-0009--0001--8919--4846-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
   <a href="https://an0myl0u5.network_(updating_soon)"><img src="https://img.shields.io/badge/Web-an0myl0u5.network_(updating_soon)-0b7285?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
