@@ -103,7 +103,7 @@ Technical trickery means its pretty much plug and play and compatible with most 
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/An0myl0u5-Lite/An0myl0u5_Wallet_V2">An0myl0u5 Ωm3gA</a></h3>
+      <h3><a href="https://github.com/An0myl0u5-Lite/An0myl0u5_Wallet_V2">An0myl0u5 ΩM3GA</a></h3>
       The governance and identity interface for the An0myl0u5 Network. Post-quantum security, zero-knowledge voting with verifiable results, and insane transaction capability, brings web3 to the real world with entirely new web4 infrastructure.<br/><br/>The network supports a theoretical 3.8B+ TPS, enabling global-scale democratic utility. From the voiceless to dominion. <img width="800" alt="The An0myl0u5 Network blockchain metaphor" src="https://github.com/user-attachments/assets/19d9b9f5-89cb-4933-ad7b-cc10990b441c" />
     </td>
     <td width="50%"></td>
@@ -119,6 +119,10 @@ Technical trickery means its pretty much plug and play and compatible with most 
 <p align="center">
   <img src="https://project-r28vs.vercel.app/api?username=An0myl0u5-Lite&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=161b22&icon_color=39d353&title_color=39d353&count_private=true" />
   <img src="https://project-r28vs.vercel.app/api/top-langs/?username=An0myl0u5-Lite&layout=compact&theme=github_dark&bg_color=0d1117&border_color=161b22&title_color=39d353&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://project-r28vs.vercel.app/api/profile-report?username=An0myl0u5-Lite&theme=github_dark&bg_color=0d1117&border_color=161b22&title_color=39d353" />
 </p>
 
 <p align="center">
@@ -138,7 +142,7 @@ Technical trickery means its pretty much plug and play and compatible with most 
 ## 🔬 Engineering Veracity
 
 <p align="center">
-  <img src="https://project-r28vs.vercel.app/api/veracity?username=An0myl0u5-Lite&theme=github_dark" />
+  <img src="https://project-r28vs.vercel.app/api/veracity?username=An0myl0u5-Lite&theme=github_dark&score_window=all&decay_mode=exponential&show_icons=true&bg_color=0d1117&border_color=161b22&title_color=39d353" />
 </p>
 
 <p align="center">
@@ -159,7 +163,7 @@ Technical trickery means its pretty much plug and play and compatible with most 
 
 <p align="center">
   <a href="https://discord.gg/"><img src="https://img.shields.io/badge/Discord-%5BAMS%5D%20An0myl0u5-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://github.com/An0myl0u5-Research"><img src="https://img.shields.io/badge/Research_Org-An0myl0u5--Research-8957e5?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/An0myl0u5-Research"><img src="https://img.shields.io/badge/Research_Org-An0myl0u5--Research-8957e5?style=for-the-badge&logo=github\" /></a>
   <a href="https://orcid.org/0009-0001-8919-4846"><img src="https://img.shields.io/badge/ORCID-0009--0001--8919--4846-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
   <a href="https://an0myl0u5.network_(updating_soon)"><img src="https://img.shields.io/badge/Web-an0myl0u5.network_(updating_soon)-0b7285?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
