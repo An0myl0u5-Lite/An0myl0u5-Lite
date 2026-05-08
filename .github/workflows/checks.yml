@@ -38,14 +38,18 @@ jobs:
         uses: lycheeverse/lychee-action@8646ba30535128ac92d33dfc9133794bfdd9b411 # v2
         with:
           # Limit concurrency so external hosts (github.com, vercel.app) do not
-          # rate-limit the runner. Accept 429s as transient instead of failing.
-          # Exclude mailto: and localhost links.
+          # rate-limit the runner. Accept 403 because most shield/badge services
+          # (img.shields.io, skillicons.dev, demolab.com, vercel.app SVG cards)
+          # block lychee's user-agent with 403 while serving fine to browsers
+          # and GitHub's image proxy. Accept 429 as transient.
+          # Exclude localhost and the .lycheeignore file at repo root holds
+          # additional known-private/known-broken URLs.
           args: >-
             --verbose
             --no-progress
             --max-concurrency 4
-            --accept 200,201,202,203,204,206,301,302,303,304,307,308,429
-            --exclude-mail
+            --accept 200,201,202,203,204,206,301,302,303,304,307,308,403,429
+            --github-token ${{ secrets.GITHUB_TOKEN }}
             --exclude '^https?://(localhost|127\.0\.0\.1|0\.0\.0\.0)'
             './**/*.md'
           fail: true

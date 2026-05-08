@@ -22,13 +22,12 @@
 
 I design and build decentralised infrastructure — governance, identity, payments, booking systems, complex algorithms and tools for social and political/governance, privacy and accountability infrastructure for people who've been excluded from the systems that govern them.
 
-
-An0m5 ARC is the open research platform that is designed to allow anyone to edit research with open source decentralised - perpetual peer review mechanisms - all participants will have attributions in the research and meta data forever, even if just a spelling correction 😀  we can have contributors who specifically do simple things that do not include research in the curation sense. 
+An0m5 ARC is the open research platform that is designed to allow anyone to edit research with open source decentralised - perpetual peer review mechanisms - all participants will have attributions in the research and meta data forever, even if just a spelling correction 😀  we can have contributors who specifically do simple things that do not include research in the curation sense.
 Primarily intended for the socio political, economic, human rights avenues it is not restricted to that research - technology, sciences and anything else is also welcome.
 
 Everything here is built without formal education, without funding, and (for a long time) without a laptop. The architecture is the message: if one person on a phone can build it, imagine what a community can do.
 
-```
+```text
 ┌─────────────────────────────────────────────────────────────┐
 │ "Don't just vibe your code. Code your vibe." — An0myl0u5 │
 └─────────────────────────────────────────────────────────────┘
@@ -41,9 +40,6 @@ Everything here is built without formal education, without funding, and (for a l
   <img src="https://img.shields.io/badge/HolidaySmile_%F0%9F%98%83-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/%CE%A9M3GA-3178C6?style=for-the-badge" />
 </p>
-
-
-
 
 ---
 
@@ -92,7 +88,7 @@ Everything here is built without formal education, without funding, and (for a l
     <td width="50%">
       <h3><a href="https://github.com/An0myl0u5-Lite/DentalBooking">NHS Dental Booking System</a></h3>
       Federated waiting list management for NHS dental services. Geographic allocation algorithms and clinical urgency prioritisation designed to solve the access crisis. Works alongside existing practice software.
-Designed specifically to close the door on dental fraud and provide access to all patients. 
+Designed specifically to close the door on dental fraud and provide access to all patients.
 Algorithm models projected to recover NHS shortfalls and access issues within 4-5 years with massive ROI% for practices and ICB's.
 Technical trickery means its pretty much plug and play and compatible with most private dental bookings systems as currently configured, with standalone abilities and private commercial contracts and enterprise grade branded versions separate to NHS.
     </td>
@@ -109,8 +105,6 @@ Technical trickery means its pretty much plug and play and compatible with most 
     <td width="50%"></td>
   </tr>
 </table>
-
-
 
 ---
 
@@ -168,19 +162,18 @@ Technical trickery means its pretty much plug and play and compatible with most 
   <a href="https://an0myl0u5.network_(updating_soon)"><img src="https://img.shields.io/badge/Web-an0myl0u5.network_(updating_soon)-0b7285?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
-
 ### Defensive Threat Intel
+
 - Research notes on GitHub supply-chain bait (fake "CVE PoC" repos, honeytraps, loader patterns)
 - Practical detection checklists for students and analysts
 - Repository: OSINT-OpSec (defensive-only, no PoCs)
-
 
 💡 More About Me
 
 - Diagnosed autistic — systems thinking is the superpower, not the obstacle
 - Built the entire An0myl0u5 prototype on a samsung s20 mobile device — constraints breed creativity
 - Self-taught across blockchain, cryptography, distributed systems, economics, and political science amongst other interests
-- Community: [AMS] An0myl0u5 on Discord 
+- Community: [AMS] An0myl0u5 on Discord
 - Believes governance infrastructure should be a public good, not a product. Governance should be 1 person 1 vote provable attestations with post count verification - each person can check their vote was counted true and the vote ledger is within tolerances.
 - Anonymous by design. Attributed by choice. Privacy and Accountability by necessity
 
