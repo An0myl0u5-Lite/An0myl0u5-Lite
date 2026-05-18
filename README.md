@@ -116,7 +116,7 @@ Technical trickery means its pretty much plug and play and compatible with most 
 </p>
 
 <p align="center">
-  <img src="https://project-r28vs.vercel.app/api/profile-report?username=An0myl0u5-Lite&theme=github_dark&bg_color=0d1117&border_color=161b22&title_color=39d353&count_private=true" />
+  <img src="https://project-r28vs.vercel.app/api/profile-report?username=An0myl0u5-Lite&bg_color=0d1117&border_color=161b22&title_color=39d353&include_private=true" />
 </p>
 
 <p align="center">
