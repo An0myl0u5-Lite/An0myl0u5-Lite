@@ -1,16 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=200&section=header&text=An0myl0u5&fontSize=60&fontColor=39d353&desc=Don%27t%20just%20vibe%20your%20code.%20Code%20your%20vibe.&descSize=18&descAlignY=75&animation=fadeIn" width="100%"/>
+  <img src="https://project-r28vs.vercel.app/api/hero?preset=research-purple&text=An0myl0u5&sub=Don't+just+vibe+your+code.+Code+your+vibe." width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Self-taught.+Self-funded.+Self-determined.;Governance+infrastructure+as+a+public+good.;Don%27t+just+vibe+your+code.+Code+your+vibe." alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=8957E5&center=true&vCenter=true&width=600&lines=Blockchain+%C2%B7+AI+%C2%B7+Zero-Knowledge+%C2%B7+Web4+%C2%B7+Decentralised+Identity+%C2%B7+Governance;Economy.+Ecology.+Equality." alt="Typing SVG 2" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Self-taught.+Self-funded.+Self-determined.;Governance+infrastructure+as+a+public+good.;Don't+just+vibe+your+code.+Code+your+vibe." alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,15 +14,9 @@
   <img src="https://img.shields.io/badge/Based_in-UK%20%F0%9F%87%AC%F0%9F%87%A7-39d353?style=for-the-badge" alt="UK"/>
 </p>
 
-I design and build decentralised infrastructure — governance, identity, payments, booking systems, complex algorithms and tools for social and political governance, privacy and accountability infrastructure for people who've been excluded from the systems that govern them.
+I design and build decentralised infrastructure across governance, identity, payments, booking systems, algorithms, privacy, accountability, and open research tooling.
 
-An0m5 ARC is the open research platform designed to allow anyone to edit research with open-source, decentralised, perpetual peer-review mechanisms. All participants will have attributions in the research and metadata forever, even if just a spelling correction 😀. Contributors can also do simple non-curation work that still matters.
-
-Primarily intended for socio-political, economic, and human-rights research, it is not restricted to those areas. Technology, sciences, cryptography, systems engineering, and anything else useful are also welcome.
-
-Everything here is built without formal education, without funding, and for a long time without a laptop. The architecture is the message: if one person on a phone can build it, imagine what a community can do.
-
-```
+```text
 ┌─────────────────────────────────────────────────────────────┐
 │ "Don't just vibe your code. Code your vibe." — An0myl0u5 │
 └─────────────────────────────────────────────────────────────┘
@@ -78,87 +66,93 @@ Everything here is built without formal education, without funding, and for a lo
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/An0myl0u5-Lite/an0myl0u5_net">An0myl0u5 Network</a></h3>
-      Decentralised governance platform built as a non-disruptive democratic overlay. A mathematical solution to systemic corruption, providing a resilient layer for global democratic participation.
+      Decentralised governance infrastructure, identity, voting, attestations, and public-accountability architecture.
     </td>
     <td width="50%">
       <h3><a href="https://github.com/An0myl0u5-Research">An0m5-ARC</a></h3>
-      Open research collective for annotated, signed, community-verified knowledge. Academic citation meets version control — every contribution permanently attributed and citable via ORCID.
+      Open research collective for annotated, signed, community-verified knowledge.
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/An0myl0u5-Lite/DentalBooking">NHS Dental Booking System</a></h3>
-      Federated waiting-list management for NHS dental services. Geographic allocation algorithms and clinical urgency prioritisation designed to improve access and reduce fraud risk. Designed to work alongside existing practice software, with standalone and enterprise-grade options.
+      Federated waiting-list management, geographic allocation, clinical urgency prioritisation, and service-access tooling.
     </td>
     <td width="50%">
       <h3><a href="https://github.com/An0myl0u5-Lite/Holiday-SmileV2">HolidaySmile 😃</a></h3>
-      Custom package builder for travel, accommodation, boats, and activities. Built for accessibility, user-defined constraints, provider tools, and local/regional launch models.
+      Travel package builder for accommodation, boats, activities, accessibility constraints, provider tools, and local/regional launch models.
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/An0myl0u5-Lite/An0myl0u5_Wallet_V2">An0myl0u5 Ωm3gA</a></h3>
-      The governance and identity interface for the An0myl0u5 Network. Post-quantum security, zero-knowledge voting, verifiable results, and Web4 infrastructure for real-world governance utility.<br/><br/>
-      <img width="800" alt="The An0myl0u5 Network blockchain metaphor" src="https://github.com/user-attachments/assets/19d9b9f5-89cb-4933-ad7b-cc10990b441c" />
+      <h3><a href="https://github.com/An0myl0u5-Lite/An0myl0u5_Wallet_V2">An0myl0u5 ΩM3GA</a></h3>
+      Governance and identity interface for the An0myl0u5 Network, including post-quantum security, zero-knowledge voting, and verifiable results.
     </td>
     <td width="50%">
       <h3><a href="https://github.com/An0myl0u5-Lite/An0matr1X">An0Matr1X Engine</a></h3>
-      Adversarial GitHub intelligence: repo complexity, anti-supply-chain scoring, anti-gaming signals, vulnerability posture, private/public repo counts, and profile-report cards built from a forked stats engine.
+      Adversarial GitHub intelligence: codebase complexity, dependency-risk posture, anti-gaming signals, AI/slop suspicion signals, private/public repo counts, and README-safe SVG reporting.
     </td>
   </tr>
 </table>
 
 ---
 
-## 🧠 An0Matr1X Intelligence Cards
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://an0matr1x.vercel.app/api/an0matr1x?lines=AN0MATR1X;SECURITY;INTELLIGENCE&preset=matrix-green&width=760&height=170&cellWidth=18&charDelayMs=70&loopPauseMs=1600" alt="An0Matr1X animated identity card" />
+  <img src="https://project-r28vs.vercel.app/api?username=An0myl0u5-Lite&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=161b22&icon_color=39d353&title_color=39d353&count_private=true" />
+  <img src="https://project-r28vs.vercel.app/api/top-langs/?username=An0myl0u5-Lite&layout=compact&theme=github_dark&bg_color=0d1117&border_color=161b22&title_color=39d353&langs_count=8&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://an0matr1x.vercel.app/api/profile-report?username=An0myl0u5-Lite&mode=targeted&include_repos=An0matr1X,An0myl0u5_Wallet_V2,DentalBooking,Holiday-SmileV2,an0myl0u5_net&include_private=true&include_forks=false&include_archived=false&include_deprecated=false&limit=100&bg_color=0d1117&border_color=161b22&title_color=39d353&text_color=c9d1d9&accent_color=39d353&warn_color=f78166&custom_title=An0Matr1X%20Profile%20Intelligence" alt="An0Matr1X profile intelligence report" />
+  <img src="https://project-r28vs.vercel.app/api/profile-report?username=An0myl0u5-Lite&mode=targeted&include_repos=An0matr1X,An0myl0u5_Wallet_V2,DentalBooking,Holiday-SmileV2,an0myl0u5_net&include_private=true&include_forks=false&include_archived=false&include_deprecated=false&include_reference=false&limit=100&cache_seconds=14400&bg_color=0d1117&border_color=161b22&title_color=39d353&text_color=c9d1d9&accent_color=39d353&warn_color=f78166&custom_title=An0Matr1X%20Profile%20Intelligence" alt="An0Matr1X profile intelligence report" />
 </p>
 
-The profile report card is generated by the An0Matr1X engine rather than the default upstream stats cards. It separates active project work from account-wide security posture so old vulnerable repos are not hidden by selected showcase repos.
+### An0Matr1X profile-report signals
 
-| Signal | What it shows |
+The custom profile-report card is generated by the An0Matr1X deployment. It separates active showcase work from account-wide adversarial and security-practice signals.
+
+| Signal | What it means |
 |---|---|
-| Work | selected project activity, releases, issues, PRs, repo substance |
-| Risk | anti-gaming and trust posture, including star/fork anomalies and critical vulnerability caps |
-| Complexity | metadata-based codebase complexity and learning-curve signals |
-| Adversarial | suspicious repo-shape and repo-gaming indicators |
-| Security posture | open vulnerability exposure, severity buckets, addressed ratio, stale/unhandled alerts, risk-source repos |
-| Private/public counts | private and public owner repo counts when the deployment token has enough access |
+| Work | Selected project activity, releases, issues, PRs, repo substance, and contribution proof. |
+| Risk | Anti-gaming and trust posture, including star/fork anomalies, fork-padding signals, archived/deprecated inclusion, CI absence, and critical vulnerability caps. |
+| Complexity | Metadata-based codebase complexity, repo structure, CI health, release maturity, commit maturity, language entropy, and temporal learning-curve decay. |
+| Adversarial | Suspicious repo-shape and repo-gaming indicators used to detect manipulated public signals. |
+| Security posture | Open vulnerability exposure, severity buckets, addressed ratio, stale/unhandled alerts, per-repo risk sources, and historical alert buckets. |
+| Private/public counts | Private/public owner repo counts when the deployment token has enough access. |
 
-### Profile-report settings
+### Profile-report settings in use
 
 ```text
 /api/profile-report
   username=An0myl0u5-Lite
-  mode=targeted | filtered | all | pinned
-  include_repos=repo1,repo2,repo3
-  exclude_repos=repo4,repo5
-  include_private=true | false
-  include_forks=true | false
-  include_archived=true | false
-  include_templates=true | false
-  include_deprecated=true | false
-  include_reference=true | false
-  limit=1..100
-  cache_seconds=300..86400
+  mode=targeted
+  include_repos=An0matr1X,An0myl0u5_Wallet_V2,DentalBooking,Holiday-SmileV2,an0myl0u5_net
+  include_private=true
+  include_forks=false
+  include_archived=false
+  include_deprecated=false
+  include_reference=false
+  limit=100
+  cache_seconds=14400
 ```
 
-Security data depends on GitHub token permissions. If dependency-alert or `security_events` access is missing, the card should degrade gracefully and show no vulnerability data rather than failing the whole report.
+Additional supported switches:
 
----
+```text
+mode=targeted | filtered | all | pinned
+exclude_repos=repo1,repo2
+include_templates=true | false
+bg_color=0d1117
+border_color=161b22
+title_color=39d353
+text_color=c9d1d9
+accent_color=39d353
+warn_color=f78166
+custom_title=URL%20encoded%20title
+```
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=An0myl0u5-Lite&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=161b22&icon_color=39d353&title_color=39d353&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=An0myl0u5-Lite&layout=compact&theme=github_dark&bg_color=0d1117&border_color=161b22&title_color=39d353&langs_count=8" />
-</p>
+Security data depends on GitHub token permissions. Dependency-alert data may require stronger repository/security scopes; if those scopes are unavailable, the engine should degrade to no vulnerability data rather than failing the whole card.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=An0myl0u5-Lite&theme=github-dark-blue&background=0d1117&border=161b22&ring=39d353&fire=39d353" />
@@ -174,13 +168,25 @@ Security data depends on GitHub token permissions. If dependency-alert or `secur
 
 ---
 
+## 🔬 Engineering Veracity
+
+<p align="center">
+  <img src="https://project-r28vs.vercel.app/api/veracity?username=An0myl0u5-Lite&theme=github_dark&score_window=all&decay_mode=exponential&show_icons=true&bg_color=0d1117&border_color=161b22&title_color=39d353&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://project-r28vs.vercel.app/api/an0matr1x?lines=AN0MYL0U5;SECURITY;INTELLIGENCE&preset=research-purple&width=760&height=170&cellWidth=18&charDelayMs=70&loopPauseMs=1600" />
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/An0myl0u5-Lite/An0myl0u5-Lite/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-The existing contribution snake is the external GitHub contribution-grid animation. Vulnerability-aware red-square overlays are not part of that renderer yet. The clean next step is a separate An0Matr1X `security-grid` card: one square per repo, coloured by vulnerability state, generated inside the same engine instead of trying to patch the external snake.
+The current snake is the external GitHub contribution-grid animation. Vulnerability-aware red squares are not part of that renderer yet. The cleaner An0Matr1X path is a future native `security-grid` card: one square per repo, coloured by vulnerability status, generated by the engine instead of patching the external snake.
 
 ---
 
@@ -193,21 +199,15 @@ The existing contribution snake is the external GitHub contribution-grid animati
   <a href="https://an0myl0u5.network_(updating_soon)"><img src="https://img.shields.io/badge/Web-an0myl0u5.network_(updating_soon)-0b7285?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
-### Defensive Threat Intel
-
-- Research notes on GitHub supply-chain bait: fake CVE PoC repos, honeytraps, loader patterns
-- Practical detection checklists for students, maintainers, and analysts
-- Repository: OSINT-OpSec, defensive only, no exploit PoCs
-
 ## 💡 More About Me
 
-- Diagnosed autistic — systems thinking is the superpower, not the obstacle
-- Built the entire An0myl0u5 prototype on a Samsung S20 mobile device — constraints breed creativity
-- Self-taught across blockchain, cryptography, distributed systems, economics, political science, and applied systems architecture
-- Community: `[AMS] An0myl0u5` on Discord
+- Diagnosed autistic — systems thinking is the superpower, not the obstacle.
+- Built the first An0myl0u5 prototype on a Samsung S20 mobile device — constraints breed creativity.
+- Self-taught across blockchain, cryptography, distributed systems, economics, political science, and applied systems architecture.
+- Community: `[AMS] An0myl0u5` on Discord.
 - Governance infrastructure should be a public good, not a product. One person, one vote, provable attestations, and post-count verification: each person can check that their vote was counted correctly and that the ledger is within tolerances.
 - Anonymous by design. Attributed by choice. Privacy and accountability by necessity.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=100&section=footer" />
+  <img src="https://project-r28vs.vercel.app/api/hero?preset=research-purple&section=footer&height=100&rain=false" width="100%"/>
 </p>
