@@ -31,6 +31,13 @@ jobs:
   links:
     name: Link check
     runs-on: ubuntu-latest
+    # Advisory only. Lychee surfaces broken-link findings on the job summary
+    # but does not block merges. Many false-positive URL classes (shield/badge
+    # endpoints, vercel.app SVG cards, GitHub anonymous rate limits) trip the
+    # check even with aggressive accept lists; treating it as informational
+    # keeps the signal visible without halting development. Promote back to
+    # blocking once the false-positive set is tuned out.
+    continue-on-error: true
     steps:
       - uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
 
@@ -52,6 +59,10 @@ jobs:
             --github-token ${{ secrets.GITHUB_TOKEN }}
             --exclude '^https?://(localhost|127\.0\.0\.1|0\.0\.0\.0)'
             './**/*.md'
-          fail: true
+          # Advisory mode: `fail: false` exits lychee 0 even when broken
+          # links are found, so the job conclusion is `success` rather than
+          # the misleading `failure` that continue-on-error leaves behind.
+          # The broken-link report is still posted to GITHUB_STEP_SUMMARY.
+          fail: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

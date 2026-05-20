@@ -116,7 +116,7 @@ Technical trickery means its pretty much plug and play and compatible with most 
 </p>
 
 <p align="center">
-  <img src="https://project-r28vs.vercel.app/api/profile-report?username=An0myl0u5-Lite&bg_color=0d1117&border_color=161b22&title_color=39d353&include_private=true" />
+  <img src="https://project-r28vs.vercel.app/api/profile-report?username=An0myl0u5-Lite&mode=pinned&limit=10&include_private=true&bg_color=0d1117&border_color=161b22&title_color=39d353" />
 </p>
 
 <p align="center">
@@ -180,3 +180,32 @@ Technical trickery means its pretty much plug and play and compatible with most 
 <p align="center">
   <img src="https://project-r28vs.vercel.app/api/hero?preset=research-purple&section=footer&height=100&rain=false" width="100%"/>
 </p>
+
+---
+
+## 🛡 Advanced Profile Security Metrics
+
+<p align="center">
+  <img src="https://project-r28vs.vercel.app/api/profile-report?username=An0myl0u5-Lite&mode=targeted&include_repos=An0matr1X,An0myl0u5_Wallet_V2,DentalBooking,Holiday-SmileV2,an0myl0u5_net&include_private=true&include_forks=false&include_archived=false&include_templates=false&include_deprecated=false&include_reference=false&limit=20&cache_seconds=14400&bg_color=0d1117&border_color=161b22&title_color=39d353&text_color=c9d1d9&accent_color=39d353&warn_color=f78166&custom_title=An0Matr1X%20Security%20%2B%20Profile%20Metrics&_v=2" />
+</p>
+
+<p align="center">
+  <sub>Purpose-built An0Matr1X GitHub profile stats · targeted active-work scoring · vulnerability-alert posture · supply-chain malware exposure · adversarial/reputation signals · fork/archive/deprecated/reference exclusion unless explicitly selected.</sub>
+</p>
+
+---
+
+## ⚙️ An0Matr1X Profile Metrics Control Surface
+
+<p align="center">
+  <img src="https://project-r28vs.vercel.app/api/an0matr1x?lines=PROFILE;SECURITY;VERACITY;SCORING;CONTROL-SURFACE&preset=night-ops&cellWidth=16&charDelayMs=75&loopPauseMs=1800&width=760&height=180&rain=true" />
+</p>
+
+| Layer | Profile signal |
+|---|---|
+| Work | Active project output, selected repositories, CI signal, release/tag pressure, language depth, and contribution history. |
+| Risk | Stale work, broken checks, inactive repositories, unworked forks, and repository selection noise. |
+| Complexity | Multi-language repo shape, size, age, CI spread, release footprint, and engineering surface area. |
+| Adversarial | Fork-padding detection, inherited-star/fork distortion, suspicious low-local-activity forks, and repo-gaming resistance. |
+| Security | GitHub vulnerability-alert posture, critical/high exposure, open alert count, addressed ratio, oldest unaddressed alert, and live MALWARE-classified advisory exposure where token scope permits. |
+| Confidence | How much of the profile score is backed by available repo data instead of missing/private/API-limited data. |
