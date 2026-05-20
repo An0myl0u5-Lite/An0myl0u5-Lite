@@ -180,3 +180,15 @@ Technical trickery means its pretty much plug and play and compatible with most 
 <p align="center">
   <img src="https://project-r28vs.vercel.app/api/hero?preset=research-purple&section=footer&height=100&rain=false" width="100%"/>
 </p>
+
+---
+
+## 🛡 Advanced Profile Security Metrics
+
+<p align="center">
+  <img src="https://project-r28vs.vercel.app/api/profile-report?username=An0myl0u5-Lite&mode=targeted&include_repos=An0myl0u5-Lite,DentalBooking,Holiday-SmileV2,An0myl0u5_Wallet_V2,an0myl0u5_net,OSINT-OpSec,An0matr1X&include_private=true&include_forks=false&include_archived=false&include_templates=false&include_deprecated=false&include_reference=false&limit=100&cache_seconds=14400&bg_color=0d1117&border_color=161b22&title_color=39d353&text_color=c9d1d9&accent_color=39d353&warn_color=f78166&custom_title=An0Matr1X%20Security%20%2B%20Profile%20Metrics" />
+</p>
+
+<p align="center">
+  <sub>Purpose-built An0Matr1X GitHub profile stats · targeted active-work scoring · vulnerability-alert posture · adversarial/reputation signals · fork/archive/deprecated/reference exclusion unless explicitly selected.</sub>
+</p>
