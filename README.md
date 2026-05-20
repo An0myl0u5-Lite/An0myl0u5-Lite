@@ -116,7 +116,7 @@ Technical trickery means its pretty much plug and play and compatible with most 
 </p>
 
 <p align="center">
-  <img src="https://project-r28vs.vercel.app/api/profile-report?username=An0myl0u5-Lite&bg_color=0d1117&border_color=161b22&title_color=39d353&include_private=true" />
+  <img src="https://project-r28vs.vercel.app/api/profile-report?username=An0myl0u5-Lite&mode=pinned&limit=10&include_private=true&bg_color=0d1117&border_color=161b22&title_color=39d353" />
 </p>
 
 <p align="center">
@@ -186,7 +186,7 @@ Technical trickery means its pretty much plug and play and compatible with most 
 ## 🛡 Advanced Profile Security Metrics
 
 <p align="center">
-  <img src="https://project-r28vs.vercel.app/api/profile-report?username=An0myl0u5-Lite&mode=targeted&include_repos=An0matr1X,An0myl0u5_Wallet_V2,DentalBooking,Holiday-SmileV2,an0myl0u5_net,OSINT-OpSec&include_private=true&include_forks=false&include_archived=false&include_templates=false&include_deprecated=false&include_reference=false&limit=100&cache_seconds=14400&bg_color=0d1117&border_color=161b22&title_color=39d353&text_color=c9d1d9&accent_color=39d353&warn_color=f78166&custom_title=An0Matr1X%20Security%20%2B%20Profile%20Metrics" />
+  <img src="https://project-r28vs.vercel.app/api/profile-report?username=An0myl0u5-Lite&mode=targeted&include_repos=An0matr1X,An0myl0u5_Wallet_V2,DentalBooking,Holiday-SmileV2,an0myl0u5_net&include_private=true&include_forks=false&include_archived=false&include_templates=false&include_deprecated=false&include_reference=false&limit=20&cache_seconds=14400&bg_color=0d1117&border_color=161b22&title_color=39d353&text_color=c9d1d9&accent_color=39d353&warn_color=f78166&custom_title=An0Matr1X%20Security%20%2B%20Profile%20Metrics&_v=2" />
 </p>
 
 <p align="center">
