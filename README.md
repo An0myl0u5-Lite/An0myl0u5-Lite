@@ -180,3 +180,36 @@ Technical trickery means its pretty much plug and play and compatible with most 
 <p align="center">
   <img src="https://project-r28vs.vercel.app/api/hero?preset=research-purple&section=footer&height=100&rain=false" width="100%"/>
 </p>
+
+---
+
+## 🛡 Advanced Profile Security Metrics
+
+<p align="center">
+  <img src="https://project-r28vs.vercel.app/api/profile-report?username=An0myl0u5-Lite&mode=targeted&include_repos=An0myl0u5-Lite,DentalBooking,Holiday-SmileV2,An0myl0u5_Wallet_V2,an0myl0u5_net,OSINT-OpSec,An0matr1X&include_private=true&include_forks=false&include_archived=false&include_templates=false&include_deprecated=false&include_reference=false&limit=100&cache_seconds=14400&bg_color=0d1117&border_color=161b22&title_color=39d353&text_color=c9d1d9&accent_color=39d353&warn_color=f78166&custom_title=An0Matr1X%20Security%20%2B%20Profile%20Metrics" />
+</p>
+
+<p align="center">
+  <sub>Purpose-built An0Matr1X GitHub profile stats · targeted active-work scoring · vulnerability-alert posture · adversarial/reputation signals · fork/archive/deprecated/reference exclusion unless explicitly selected.</sub>
+</p>
+
+---
+
+## ⚙️ An0Matr1X Profile Metrics Control Surface
+
+<p align="center">
+  <img src="https://project-r28vs.vercel.app/api/an0matr1x?lines=PROFILE;SECURITY;VERACITY;SCORING;CONTROL-SURFACE&preset=night-ops&cellWidth=16&charDelayMs=75&loopPauseMs=1800&width=760&height=180&rain=true" />
+</p>
+
+| Layer | Profile signal |
+|---|---|
+| Work | Active project output, selected repositories, CI signal, release/tag pressure, language depth, and contribution history. |
+| Risk | Stale work, broken checks, inactive repositories, unworked forks, and repository selection noise. |
+| Complexity | Multi-language repo shape, size, age, CI spread, release footprint, and engineering surface area. |
+| Adversarial | Fork-padding detection, inherited-star/fork distortion, suspicious low-local-activity forks, and repo-gaming resistance. |
+| Security | GitHub vulnerability-alert posture, critical/high exposure, open alert count, addressed ratio, and oldest unaddressed alert where token scope permits. |
+| Confidence | How much of the profile score is backed by available repo data instead of missing/private/API-limited data. |
+
+<p align="center">
+  <sub>The profile README should expose the An0Matr1X engine output, not become a generic project README. Existing wording and layout should stay fixed unless explicitly changed.</sub>
+</p>
