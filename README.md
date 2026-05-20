@@ -192,3 +192,24 @@ Technical trickery means its pretty much plug and play and compatible with most 
 <p align="center">
   <sub>Purpose-built An0Matr1X GitHub profile stats · targeted active-work scoring · vulnerability-alert posture · adversarial/reputation signals · fork/archive/deprecated/reference exclusion unless explicitly selected.</sub>
 </p>
+
+---
+
+## ⚙️ An0Matr1X Profile Metrics Control Surface
+
+<p align="center">
+  <img src="https://project-r28vs.vercel.app/api/an0matr1x?lines=PROFILE;SECURITY;VERACITY;SCORING;CONTROL-SURFACE&preset=night-ops&cellWidth=16&charDelayMs=75&loopPauseMs=1800&width=760&height=180&rain=true" />
+</p>
+
+| Layer | Profile signal |
+|---|---|
+| Work | Active project output, selected repositories, CI signal, release/tag pressure, language depth, and contribution history. |
+| Risk | Stale work, broken checks, inactive repositories, unworked forks, and repository selection noise. |
+| Complexity | Multi-language repo shape, size, age, CI spread, release footprint, and engineering surface area. |
+| Adversarial | Fork-padding detection, inherited-star/fork distortion, suspicious low-local-activity forks, and repo-gaming resistance. |
+| Security | GitHub vulnerability-alert posture, critical/high exposure, open alert count, addressed ratio, and oldest unaddressed alert where token scope permits. |
+| Confidence | How much of the profile score is backed by available repo data instead of missing/private/API-limited data. |
+
+<p align="center">
+  <sub>The profile README should expose the An0Matr1X engine output, not become a generic project README. Existing wording and layout should stay fixed unless explicitly changed.</sub>
+</p>
