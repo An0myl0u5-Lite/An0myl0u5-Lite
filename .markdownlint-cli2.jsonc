@@ -1,0 +1,22 @@
+{
+  // Profile READMEs use heavy inline HTML for centering, image grids, and
+  // tables. They also commonly have long table rows. Disable the rules that
+  // would flag these patterns; keep the rest of the default rule set.
+  //
+  // MD045 (no-alt-text) is also disabled because the README's <img> tags are
+  // decorative shield/badge embeds where alt="" would be the only honest
+  // value — adding it ~30 times over is noise without benefit. If we ever
+  // re-enable, the right fix is alt="" rather than descriptive text.
+  "config": {
+    "MD013": false,
+    "MD033": false,
+    "MD041": false,
+    "MD045": false
+  },
+  "globs": [
+    "**/*.md"
+  ],
+  "ignores": [
+    "node_modules/**"
+  ]
+}

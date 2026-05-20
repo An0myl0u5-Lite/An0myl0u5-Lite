@@ -1,0 +1,57 @@
+name: Repository checks
+
+on:
+  pull_request:
+    branches:
+      - main
+      - vercel-An0matriX-deployment
+
+permissions:
+  contents: read
+
+jobs:
+  markdownlint:
+    name: Markdown lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
+
+      - name: Run markdownlint-cli2
+        uses: DavidAnson/markdownlint-cli2-action@992badcdf24e3b8eb7e87ff9287fe931bcb00c6e # v20
+
+  actionlint:
+    name: Workflow lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
+
+      - name: Run actionlint
+        uses: raven-actions/actionlint@205b530c5d9fa8f44ae9ed59f341a0db994aa6f8 # v2
+
+  links:
+    name: Link check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
+
+      - name: Run lychee
+        uses: lycheeverse/lychee-action@8646ba30535128ac92d33dfc9133794bfdd9b411 # v2
+        with:
+          # Limit concurrency so external hosts (github.com, vercel.app) do not
+          # rate-limit the runner. Accept 403 because most shield/badge services
+          # (img.shields.io, skillicons.dev, demolab.com, vercel.app SVG cards)
+          # block lychee's user-agent with 403 while serving fine to browsers
+          # and GitHub's image proxy. Accept 429 as transient.
+          # Exclude localhost and the .lycheeignore file at repo root holds
+          # additional known-private/known-broken URLs.
+          args: >-
+            --verbose
+            --no-progress
+            --max-concurrency 4
+            --accept 200,201,202,203,204,206,301,302,303,304,307,308,403,429
+            --github-token ${{ secrets.GITHUB_TOKEN }}
+            --exclude '^https?://(localhost|127\.0\.0\.1|0\.0\.0\.0)'
+            './**/*.md'
+          fail: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

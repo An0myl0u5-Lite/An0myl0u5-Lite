@@ -1,0 +1,17 @@
+# URLs lychee should not check. Each entry is a regex matched against the URL.
+#
+# These are confirmed-broken on the public web. They reference repositories
+# and assets owned by An0myl0u5-Lite that appear to be private (404s persist
+# even with a GitHub token in the lychee runner). The README links them as
+# project references; making them public OR removing them from the README
+# would let lychee verify them.
+^https://github\.com/An0myl0u5-Lite/an0myl0u5_net/?$
+^https://github\.com/An0myl0u5-Lite/An0myl0u5_Wallet_V2/?$
+^https://github\.com/An0myl0u5-Lite/DentalBooking/?$
+^https://github\.com/An0myl0u5-Lite/Holiday-SmileV2/?$
+^https://github\.com/user-attachments/assets/19d9b9f5-89cb-4933-ad7b-cc10990b441c$
+
+# Placeholder/aspirational URL. The hostname has parentheses and underscores
+# which makes it not a valid TLS host. Remove or replace with a real URL when
+# the network goes live.
+^https://an0myl0u5\.network_\(updating_soon\)/?$
