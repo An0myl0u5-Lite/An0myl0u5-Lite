@@ -40,7 +40,7 @@ jobs:
       - name: Snapshot An0Matr1X report cards
         run: |
           UA="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
-          for f in profile-report-pinned.svg profile-report-targeted.svg; do
+          for f in profile-report-all.svg; do
             curl -sf --max-time 20 \
               "https://raw.githubusercontent.com/${{ github.repository }}/output/$f" \
               -o "dist/$f" || true
@@ -56,14 +56,16 @@ jobs:
               echo "::warning::snapshot failed for $2 — keeping last published copy"
             fi
           }
-          fetch "https://project-r28vs.vercel.app/api/profile-report?username=An0myl0u5-Lite&mode=pinned&limit=10&include_private=true&bg_color=0d1117&border_color=161b22&title_color=39d353" \
-            dist/profile-report-pinned.svg
-          fetch "https://project-r28vs.vercel.app/api/profile-report?username=An0myl0u5-Lite&mode=targeted&include_repos=An0matr1X,An0myl0u5_Wallet_V2,DentalBooking,Holiday-SmileV2,an0myl0u5_net&include_private=true&include_forks=false&include_archived=false&include_templates=false&include_deprecated=false&include_reference=false&limit=20&cache_seconds=14400&bg_color=0d1117&border_color=161b22&title_color=39d353&text_color=c9d1d9&accent_color=39d353&warn_color=f78166&custom_title=An0Matr1X%20Security%20%2B%20Profile%20Metrics" \
-            dist/profile-report-targeted.svg
+          # mode=all on purpose: selection modes let an account curate away
+          # suspect repos. The trust card must cover the full audit universe;
+          # the engine's classification buckets separate owned work from
+          # forks/reference/archive material.
+          fetch "https://project-r28vs.vercel.app/api/profile-report?username=An0myl0u5-Lite&mode=all&include_private=true&include_forks=true&include_archived=true&include_templates=true&include_deprecated=true&include_reference=true&cache_seconds=14400&bg_color=0d1117&border_color=161b22&title_color=39d353&text_color=c9d1d9&accent_color=39d353&warn_color=f78166&custom_title=An0Matr1X%20Security%20%2B%20Profile%20Metrics%20%C2%B7%20All%20Repos" \
+            dist/profile-report-all.svg
           # If a card has never been captured, publish a themed placeholder
           # instead of letting the README show a broken image. It is replaced
           # automatically on the first successful snapshot.
-          for f in dist/profile-report-pinned.svg dist/profile-report-targeted.svg; do
+          for f in dist/profile-report-all.svg; do
             if [ ! -s "$f" ]; then
               printf '%s' '<svg xmlns="http://www.w3.org/2000/svg" width="480" height="110"><rect width="480" height="110" rx="8" fill="#0d1117" stroke="#161b22"/><text x="24" y="46" font-family="monospace" font-size="14" fill="#39d353">An0Matr1X profile report</text><text x="24" y="72" font-family="monospace" font-size="11" fill="#f78166">engine response pending - auto-refreshes when available</text></svg>' > "$f"
               echo "placeholder written: $f"

@@ -134,10 +134,6 @@ this creates
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=An0myl0u5-Lite&bg_color=0d1117&line=39d353&point=c9d1d9&area=true&area_color=238636&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/An0myl0u5-Lite/An0myl0u5-Lite/output/profile-report-pinned.svg" alt="An0Matr1X Profile Report" />
-</p>
-
 ---
 
 ## 🔬 Engineering Veracity
@@ -155,11 +151,11 @@ this creates
 ## 🛡 Advanced Profile Security Metrics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/An0myl0u5-Lite/An0myl0u5-Lite/output/profile-report-targeted.svg" alt="An0Matr1X Security + Profile Metrics" />
+  <img src="https://raw.githubusercontent.com/An0myl0u5-Lite/An0myl0u5-Lite/output/profile-report-all.svg" alt="An0Matr1X Security + Profile Metrics — All Repos" />
 </p>
 
 <p align="center">
-  <sub>Purpose-built An0Matr1X GitHub profile stats · targeted active-work scoring · vulnerability-alert posture · supply-chain malware exposure · adversarial/reputation signals · fork/archive/deprecated/reference exclusion unless explicitly selected.</sub>
+  <sub>Full audit universe — every repository, no curation. Selection modes are gameable: hiding suspect work hides the signal. The engine's classification buckets separate owned work from forks, reference material, and archives · vulnerability-alert posture · supply-chain malware exposure · adversarial/reputation signals.</sub>
 </p>
 
 ---
