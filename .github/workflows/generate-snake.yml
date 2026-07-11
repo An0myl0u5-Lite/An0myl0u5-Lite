@@ -18,6 +18,11 @@ jobs:
       contents: write
 
     steps:
+      # snk runs in Docker as root; pre-creating dist as the runner user
+      # keeps the directory writable for the snapshot step below.
+      - name: Prepare dist directory
+        run: mkdir -p dist
+
       - name: Generate snake SVG
         uses: Platane/snk@v3
         with:
