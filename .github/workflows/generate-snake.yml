@@ -23,6 +23,36 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # Snapshot the An0Matr1X profile-report cards. GitHub's camo image
+      # proxy allows upstreams only ~4s, which these data-heavy endpoints
+      # exceed on cold starts, so they can never render reliably as live
+      # embeds. Runners have no such limit: fetch here, validate, and serve
+      # the SVGs from the output branch. On any failure the last published
+      # copy is kept so the profile never shows a broken image.
+      - name: Snapshot An0Matr1X report cards
+        run: |
+          UA="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
+          for f in profile-report-pinned.svg profile-report-targeted.svg; do
+            curl -sf --max-time 20 \
+              "https://raw.githubusercontent.com/${{ github.repository }}/output/$f" \
+              -o "dist/$f" || true
+          done
+          fetch() {
+            if curl -sf --max-time 90 --retry 4 --retry-delay 15 --retry-all-errors \
+                 -A "$UA" "$1" -o "$2.tmp" \
+               && head -c 300 "$2.tmp" | grep -q '<svg'; then
+              mv "$2.tmp" "$2"
+              echo "snapshot OK: $2"
+            else
+              rm -f "$2.tmp"
+              echo "::warning::snapshot failed for $2 — keeping last published copy"
+            fi
+          }
+          fetch "https://project-r28vs.vercel.app/api/profile-report?username=An0myl0u5-Lite&mode=pinned&limit=10&include_private=true&bg_color=0d1117&border_color=161b22&title_color=39d353" \
+            dist/profile-report-pinned.svg
+          fetch "https://project-r28vs.vercel.app/api/profile-report?username=An0myl0u5-Lite&mode=targeted&include_repos=An0matr1X,An0myl0u5_Wallet_V2,DentalBooking,Holiday-SmileV2,an0myl0u5_net&include_private=true&include_forks=false&include_archived=false&include_templates=false&include_deprecated=false&include_reference=false&limit=20&cache_seconds=14400&bg_color=0d1117&border_color=161b22&title_color=39d353&text_color=c9d1d9&accent_color=39d353&warn_color=f78166&custom_title=An0Matr1X%20Security%20%2B%20Profile%20Metrics" \
+            dist/profile-report-targeted.svg
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:

@@ -134,6 +134,51 @@ this creates
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=An0myl0u5-Lite&bg_color=0d1117&line=39d353&point=c9d1d9&area=true&area_color=238636&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/An0myl0u5-Lite/An0myl0u5-Lite/output/profile-report-pinned.svg" alt="An0Matr1X Profile Report" />
+</p>
+
+---
+
+## 🔬 Engineering Veracity
+
+<p align="center">
+  <img src="https://project-r28vs.vercel.app/api/veracity?username=An0myl0u5-Lite&theme=github_dark&score_window=all&decay_mode=exponential&show_icons=true&bg_color=0d1117&border_color=161b22&title_color=39d353&count_private=true" alt="Work Veracity Score" />
+</p>
+
+<p align="center">
+  <img src="https://project-r28vs.vercel.app/api/an0matr1x?lines=AN0MYL0U5;RESEARCH;COLLECTIVE&preset=research-purple" alt="An0Matr1X" />
+</p>
+
+---
+
+## 🛡 Advanced Profile Security Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/An0myl0u5-Lite/An0myl0u5-Lite/output/profile-report-targeted.svg" alt="An0Matr1X Security + Profile Metrics" />
+</p>
+
+<p align="center">
+  <sub>Purpose-built An0Matr1X GitHub profile stats · targeted active-work scoring · vulnerability-alert posture · supply-chain malware exposure · adversarial/reputation signals · fork/archive/deprecated/reference exclusion unless explicitly selected.</sub>
+</p>
+
+---
+
+## ⚙️ An0Matr1X Profile Metrics Control Surface
+
+<p align="center">
+  <img src="https://project-r28vs.vercel.app/api/an0matr1x?lines=PROFILE;SECURITY;VERACITY;SCORING;CONTROL-SURFACE&preset=night-ops&cellWidth=16&charDelayMs=75&loopPauseMs=1800&width=760&height=180&rain=true" alt="An0Matr1X Control Surface" />
+</p>
+
+| Layer | Profile signal |
+|---|---|
+| Work | Active project output, selected repositories, CI signal, release/tag pressure, language depth, and contribution history. |
+| Risk | Stale work, broken checks, inactive repositories, unworked forks, and repository selection noise. |
+| Complexity | Multi-language repo shape, size, age, CI spread, release footprint, and engineering surface area. |
+| Adversarial | Fork-padding detection, inherited-star/fork distortion, suspicious low-local-activity forks, and repo-gaming resistance. |
+| Security | GitHub vulnerability-alert posture, critical/high exposure, open alert count, addressed ratio, oldest unaddressed alert, and live MALWARE-classified advisory exposure where token scope permits. |
+| Confidence | How much of the profile score is backed by available repo data instead of missing/private/API-limited data. |
+
 ---
 
 ## 🐍 Contribution Snake
