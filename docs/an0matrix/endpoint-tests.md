@@ -16,6 +16,14 @@ from the self-hosted deployment.
 
 <img src="https://project-r28vs.vercel.app/api/an0matr1x?effect=typing&font=Fira+Code&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Self-taught.+Self-funded.+Self-determined.;Governance+infrastructure+as+a+public+good.;Don%27t+just+vibe+your+code.+Code+your+vibe." alt="T3 an0matr1x effect typing" />
 
+## T4 — typing, compact strip attempt (green, height-tuned, no rain)
+
+<img src="https://project-r28vs.vercel.app/api/an0matr1x?effect=typing&font=Fira+Code&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&height=60&rain=false&lines=Self-taught.+Self-funded.+Self-determined.;Governance+infrastructure+as+a+public+good.;Don%27t+just+vibe+your+code.+Code+your+vibe." alt="T4 typing compact green" />
+
+## T5 — typing, compact strip attempt (purple, height-tuned, no rain)
+
+<img src="https://project-r28vs.vercel.app/api/an0matr1x?effect=typing&font=Fira+Code&size=18&duration=3000&pause=1000&color=8957E5&center=true&vCenter=true&width=600&height=60&rain=false&lines=Blockchain+%C2%B7+AI+%C2%B7+Zero-Knowledge+%C2%B7+Web4+%C2%B7+Decentralised+Identity+%C2%B7+Governance;Economy.+Ecology.+Equality." alt="T5 typing compact purple" />
+
 ## H1 — hero, capsule-render-compatible params (green waves)
 
 <img src="https://project-r28vs.vercel.app/api/hero?type=waving&color=0:0d1117,50:161b22,100:238636&height=200&section=header&text=An0myl0u5&fontSize=60&fontColor=39d353&desc=Don%27t%20just%20vibe%20your%20code.%20Code%20your%20vibe.&descSize=18&descAlignY=75&animation=fadeIn" alt="H1 hero waving compat" />
