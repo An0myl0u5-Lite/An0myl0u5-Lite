@@ -7,9 +7,6 @@ on:
   push:
     branches:
       - main
-      # temporary: validate the snapshot step end-to-end from the PR branch;
-      # remove once merged to main
-      - claude/an0matr1x-implementation-review-jmj356
 
 jobs:
   generate:
