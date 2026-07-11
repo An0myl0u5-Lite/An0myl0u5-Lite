@@ -96,7 +96,7 @@ Designed specifically to close the door on dental fraud and and provide access t
 Algorithm models projected to recover NHS shortfalls and access issues within 4-5 years with massive ROI% for practices amd ICB's.
 Technical trickery means its pretty much plug and play and compatible with most private dental bookings systems as currently configured, with standalone abilities and private comercial contracts and enterprise grade branded versions separate to NHS.
 this creates 
-    </d>
+    </td>
     <td width="50%">
       <h3><a href="https://github.com/An0myl0u5-Lite/Holiday-SmileV2">HolidaySmile 😃</a></h3>
       Custom package builder for travel. Built for accessibility and user-defined constraints. Proprietary pricing and availability algorithms designed for global scale from day one.
@@ -118,8 +118,8 @@ this creates
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=An0myl0u5-Lite&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=161b22&icon_color=39d353&title_color=39d353&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=An0myl0u5-Lite&layout=compact&theme=github_dark&bg_color=0d1117&border_color=161b22&title_color=39d353&langs_count=8" />
+  <img src="https://project-r28vs.vercel.app/api?username=An0myl0u5-Lite&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=161b22&icon_color=39d353&title_color=39d353&count_private=true" />
+  <img src="https://project-r28vs.vercel.app/api/top-langs/?username=An0myl0u5-Lite&layout=compact&theme=github_dark&bg_color=0d1117&border_color=161b22&title_color=39d353&langs_count=8&count_private=true" />
 </p>
 
 <p align="center">
