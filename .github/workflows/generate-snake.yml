@@ -7,6 +7,9 @@ on:
   push:
     branches:
       - main
+      - vercel-An0matriX-deployment
+      # temporary until PR #6 merges: keeps report snapshots fresh from the PR branch
+      - claude/an0matr1x-implementation-review-jmj356
 
 jobs:
   generate:
@@ -37,10 +40,11 @@ jobs:
       - name: Snapshot An0Matr1X report cards
         run: |
           UA="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
+          mkdir -p reports-dist
           for f in profile-report-all.svg; do
             curl -sf --max-time 20 \
-              "https://raw.githubusercontent.com/${{ github.repository }}/output/$f" \
-              -o "dist/$f" || true
+              "https://raw.githubusercontent.com/${{ github.repository }}/output-reports/$f" \
+              -o "reports-dist/$f" || true
           done
           fetch() {
             if curl -sf --max-time 90 --retry 4 --retry-delay 15 --retry-all-errors \
@@ -58,11 +62,11 @@ jobs:
           # the engine's classification buckets separate owned work from
           # forks/reference/archive material.
           fetch "https://project-r28vs.vercel.app/api/profile-report?username=An0myl0u5-Lite&mode=all&include_private=true&include_forks=true&include_archived=true&include_templates=true&include_deprecated=true&include_reference=true&cache_seconds=14400&bg_color=0d1117&border_color=161b22&title_color=39d353&text_color=c9d1d9&accent_color=39d353&warn_color=f78166&custom_title=An0Matr1X%20Security%20%2B%20Profile%20Metrics%20%C2%B7%20All%20Repos" \
-            dist/profile-report-all.svg
+            reports-dist/profile-report-all.svg
           # If a card has never been captured, publish a themed placeholder
           # instead of letting the README show a broken image. It is replaced
           # automatically on the first successful snapshot.
-          for f in dist/profile-report-all.svg; do
+          for f in reports-dist/profile-report-all.svg; do
             if [ ! -s "$f" ]; then
               printf '%s' '<svg xmlns="http://www.w3.org/2000/svg" width="480" height="110"><rect width="480" height="110" rx="8" fill="#0d1117" stroke="#161b22"/><text x="24" y="46" font-family="monospace" font-size="14" fill="#39d353">An0Matr1X profile report</text><text x="24" y="72" font-family="monospace" font-size="11" fill="#f78166">engine response pending - auto-refreshes when available</text></svg>' > "$f"
               echo "placeholder written: $f"
@@ -74,5 +78,16 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Reports live on their own branch: the default-branch daily cron runs
+      # main's snake-only workflow and force-replaces `output`, which would
+      # silently wipe snapshots published there.
+      - name: Push report snapshots to output-reports branch
+        uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865 # v4
+        with:
+          target_branch: output-reports
+          build_dir: reports-dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -144,7 +144,7 @@ Technical trickery means its pretty much plug and play and compatible with most 
 ## 🛡 Advanced Profile Security Metrics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/An0myl0u5-Lite/An0myl0u5-Lite/output/profile-report-all.svg" alt="An0Matr1X Security + Profile Metrics — All Repos" />
+  <img src="https://raw.githubusercontent.com/An0myl0u5-Lite/An0myl0u5-Lite/output-reports/profile-report-all.svg" alt="An0Matr1X Security + Profile Metrics — All Repos" />
 </p>
 
 <p align="center">
