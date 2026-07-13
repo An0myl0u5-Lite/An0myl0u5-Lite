@@ -11,6 +11,7 @@ It starts from the idea of `readme-typing-svg`, but the goal is to move far beyo
 Instead of "typing text", An0Matr1X builds text by dropping characters from vertical lanes into a landing zone.
 
 Each character:
+
 1. descends from a chosen lane,
 2. optionally flickers through fake Matrix-style glyphs,
 3. lands in the center column,
@@ -18,6 +19,7 @@ Each character:
 5. continues until a line is complete.
 
 This creates a hybrid of:
+
 - Matrix glyph rain,
 - terminal typography,
 - old digital watch / Casio / G-Shock rhythm,
@@ -30,6 +32,7 @@ This creates a hybrid of:
 Because the current engine is a typing illusion, not a lane compositor.
 
 The stock parameters are useful for simple text banners, but they do not support:
+
 - line fill order,
 - lane selection,
 - center-land-then-shift behavior,
@@ -38,6 +41,7 @@ The stock parameters are useful for simple text banners, but they do not support
 - future sinkhole / collapse / overflow scenes.
 
 So the plan is:
+
 - preserve compatibility at the query-string edge,
 - replace the animation engine underneath,
 - keep old "typing" as a legacy mode,
@@ -63,17 +67,20 @@ A line is not typed. It is assembled.
 ## V1 feature set
 
 ### Fill modes
+
 - `top-down`
 - `bottom-up`
 - `middle-out`
 - `custom`
 
 ### Lane modes
+
 - `random`
 - `roundrobin`
 - `manual`
 
 ### Motion rules
+
 - multi-line text
 - center landing
 - shove-left by one grid cell on each new landing
@@ -81,6 +88,7 @@ A line is not typed. It is assembled.
 - deterministic loop
 
 ### Visual rules
+
 - monospace only
 - fake glyph flicker while falling
 - dark backgrounds first
@@ -143,6 +151,7 @@ The preset layer should override timings, colors, lane defaults, and glyph style
 ## Preset catalog
 
 ### 1. `gshock-retro`
+
 Old digital-watch rhythm.
 
 - palette: dark charcoal, muted green, amber accent
@@ -151,6 +160,7 @@ Old digital-watch rhythm.
 - vibe: vintage Casio / G-Shock LCD energy
 
 ### 2. `matrix-green`
+
 Classic terminal rain feel.
 
 - palette: black + phosphor green
@@ -159,6 +169,7 @@ Classic terminal rain feel.
 - vibe: dense code-rain terminal
 
 ### 3. `research-purple`
+
 Fit for the current An0myl0u5 / ARC profile identity.
 
 - palette: black, violet, electric blue, soft green highlights
@@ -167,6 +178,7 @@ Fit for the current An0myl0u5 / ARC profile identity.
 - vibe: technical, modern, non-generic
 
 ### 4. `night-ops`
+
 Security / command-line aesthetic.
 
 - palette: black, slate, dim cyan, pale green
@@ -175,6 +187,7 @@ Security / command-line aesthetic.
 - vibe: threat intel / ops dashboard
 
 ### 5. `ember-alert`
+
 High contrast warning / event mode.
 
 - palette: black, deep orange, red, gold
@@ -204,13 +217,17 @@ This keeps the profile technical and distinctive without collapsing into noisy g
 ## Architecture
 
 ### 1. Compatibility layer
+
 Accept existing `readme-typing-svg` style query parameters where possible.
 
 ### 2. Config normalizer
+
 Parse user query strings into a single internal scene config.
 
 ### 3. Layout engine
+
 Compute:
+
 - line order,
 - lane positions,
 - center landing column,
@@ -218,7 +235,9 @@ Compute:
 - final settled positions.
 
 ### 4. Timeline compiler
+
 Compute:
+
 - drop start time,
 - landing time,
 - left-shift timing,
@@ -226,12 +245,15 @@ Compute:
 - loop reset timing.
 
 ### 5. SVG renderer
+
 Emit declarative SVG only.
 
 No JavaScript should be required for the main README-safe mode.
 
 ### 6. Effect modules
+
 Separate the effects cleanly:
+
 - `typing`
 - `matrix-drop`
 - later: `stack-fill`
@@ -254,6 +276,7 @@ That gives a stronger identity and avoids the generic profile-banner look.
 ## Roadmap
 
 ### V1
+
 - matrix-drop effect
 - fill modes
 - lane modes
@@ -263,18 +286,21 @@ That gives a stronger identity and avoids the generic profile-banner look.
 - deterministic glyph flicker
 
 ### V1.1
+
 - line completion pauses
 - per-line timing offsets
 - better preset browser/demo page
 - manual lane maps by line
 
 ### V2
+
 - text box fill / stack behavior
 - more scene types
 - overflow logic
 - simple ASCII-inspired arrangements
 
 ### V3
+
 - sinkhole collapse
 - black-box fallthrough
 - bottom impact sequence

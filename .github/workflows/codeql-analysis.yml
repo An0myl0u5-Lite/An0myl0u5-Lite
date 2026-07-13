@@ -1,0 +1,32 @@
+name: "Static code analysis (CodeQL — actions)"
+
+on:
+  push:
+    branches:
+      - main
+      - vercel-An0matriX-deployment
+  pull_request:
+    branches:
+      - main
+      - vercel-An0matriX-deployment
+
+permissions:
+  actions: read
+  contents: read
+  security-events: write
+
+jobs:
+  CodeQL-Build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
+
+      - name: Initialize CodeQL
+        uses: github/codeql-action/init@7fd177fa680c9881b53cdab4d346d32574c9f7f4 # v3.35.4
+        with:
+          languages: actions
+
+      - name: Perform CodeQL Analysis
+        uses: github/codeql-action/analyze@7fd177fa680c9881b53cdab4d346d32574c9f7f4 # v3.35.4
