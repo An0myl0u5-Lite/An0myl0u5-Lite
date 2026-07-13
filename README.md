@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://project-r28vs.vercel.app/api/hero?preset=research-purple&text=An0myl0u5&sub=Don't+just+vibe+your+code.+Code+your+vibe." width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=200&section=header&text=An0myl0u5&fontSize=60&fontColor=39d353&desc=Don%27t%20just%20vibe%20your%20code.%20Code%20your%20vibe.&descSize=18&descAlignY=75&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
@@ -116,10 +116,6 @@ Technical trickery means its pretty much plug and play and compatible with most 
 </p>
 
 <p align="center">
-  <img src="https://project-r28vs.vercel.app/api/profile-report?username=An0myl0u5-Lite&bg_color=0d1117&border_color=161b22&title_color=39d353&include_private=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=An0myl0u5-Lite&theme=github-dark-blue&background=0d1117&border=161b22&ring=39d353&fire=39d353" />
 </p>
 
@@ -136,12 +132,41 @@ Technical trickery means its pretty much plug and play and compatible with most 
 ## 🔬 Engineering Veracity
 
 <p align="center">
-  <img src="https://project-r28vs.vercel.app/api/veracity?username=An0myl0u5-Lite&theme=github_dark&score_window=all&decay_mode=exponential&show_icons=true&bg_color=0d1117&border_color=161b22&title_color=39d353&count_private=true" />
+  <img src="https://project-r28vs.vercel.app/api/veracity?username=An0myl0u5-Lite&theme=github_dark&score_window=all&decay_mode=exponential&show_icons=true&bg_color=0d1117&border_color=161b22&title_color=39d353&count_private=true" alt="Work Veracity Score" />
 </p>
 
 <p align="center">
-  <img src="https://project-r28vs.vercel.app/api/an0matr1x?lines=AN0MYL0U5;RESEARCH;COLLECTIVE&preset=research-purple" />
+  <img src="https://project-r28vs.vercel.app/api/an0matr1x?lines=AN0MYL0U5;RESEARCH;COLLECTIVE&preset=research-purple" alt="An0Matr1X" />
 </p>
+
+---
+
+## 🛡 Advanced Profile Security Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/An0myl0u5-Lite/An0myl0u5-Lite/output-reports/profile-report-all.svg" alt="An0Matr1X Security + Profile Metrics — All Repos" />
+</p>
+
+<p align="center">
+  <sub>Full audit universe — every repository, no curation. Selection modes are gameable: hiding suspect work hides the signal. The engine's classification buckets separate owned work from forks, reference material, and archives · vulnerability-alert posture · supply-chain malware exposure · adversarial/reputation signals.</sub>
+</p>
+
+---
+
+## ⚙️ An0Matr1X Profile Metrics Control Surface
+
+<p align="center">
+  <img src="https://project-r28vs.vercel.app/api/an0matr1x?lines=PROFILE;SECURITY;VERACITY;SCORING;CONTROL-SURFACE&preset=night-ops&cellWidth=16&charDelayMs=75&loopPauseMs=1800&width=760&height=180&rain=true" alt="An0Matr1X Control Surface" />
+</p>
+
+| Layer | Profile signal |
+|---|---|
+| Work | Active project output, selected repositories, CI signal, release/tag pressure, language depth, and contribution history. |
+| Risk | Stale work, broken checks, inactive repositories, unworked forks, and repository selection noise. |
+| Complexity | Multi-language repo shape, size, age, CI spread, release footprint, and engineering surface area. |
+| Adversarial | Fork-padding detection, inherited-star/fork distortion, suspicious low-local-activity forks, and repo-gaming resistance. |
+| Security | GitHub vulnerability-alert posture, critical/high exposure, open alert count, addressed ratio, oldest unaddressed alert, and live MALWARE-classified advisory exposure where token scope permits. |
+| Confidence | How much of the profile score is backed by available repo data instead of missing/private/API-limited data. |
 
 ---
 
@@ -178,5 +203,5 @@ Technical trickery means its pretty much plug and play and compatible with most 
 - Anonymous by design. Attributed by choice. Privacy and Accountability by necessity
 
 <p align="center">
-  <img src="https://project-r28vs.vercel.app/api/hero?preset=research-purple&section=footer&height=100&rain=false" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=100&section=footer" width="100%"/>
 </p>
