@@ -22,7 +22,7 @@ I established **An0myl0u5 Research and Development** as an enterprise. [An0myl0u
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│ "Don't vibe your code, Code your vibe" — An0myl0u5       │
+│ "Don't vibe your code, Code your vibe" — An0myl0u5          │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -69,32 +69,38 @@ I established **An0myl0u5 Research and Development** as an enterprise. [An0myl0u
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%">
       <h3>🌐 An0myl0u5 Network / Ωm3gA</h3>
       <p>A large-scale project exploring governance, identity and participation as connected public infrastructure. Ωm3gA brings the network's ideas into a shared interface.</p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="100%">
       <h3>🔬 <a href="https://github.com/An0myl0u5-Research">An0m5-ARC</a></h3>
       <p>An open research platform for source-linked work, ongoing review and clear contributor attribution across disciplines.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%">
       <h3>🦷 NHS Dental Booking System</h3>
       <p>A dental access and booking concept bringing waiting lists, geography and clinical urgency into a clearer route to care.</p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="100%">
       <h3>😃 HolidaySmile</h3>
       <p>A calendar-led travel package builder connecting stays, boats and local experiences. Accessibility and personal constraints sit alongside cultural discovery and distinctive destinations.</p>
       <p><a href="mailto:contact@holidaysmile.org">contact@holidaysmile.org</a></p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%">
       <h3>🧭 An0matr1X</h3>
       <p>A software intelligence project connecting repository evidence, security signals and research into a more useful view of code and its history.</p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="100%">
       <h3>🧩 LexiVibe</h3>
       <p>A modular research tool and tooling interface for working with sources and ideas. It complements the An0m5-ARC research platform.</p>
     </td>
