@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Based_in-UK%20%F0%9F%87%AC%F0%9F%87%A7-39d353?style=for-the-badge" alt="UK"/>
 </p>
 
-I'm An0myl0u5, a self-taught researcher and developer. I work on governance, research, identity, healthcare, travel and software intelligence, with a focus on making complex systems more useful and accountable to the people who rely on them.
+I'm An0myl0u5, a self-taught researcher and developer. I work on governance, research, identity, healthcare, travel and GitHub code and contributor intelligence, with a focus on making complex systems more useful and accountable to the people who rely on them.
 
 I established **An0myl0u5 Research and Development** as an enterprise. [An0myl0u5 Research](https://github.com/An0myl0u5-Research) is the research organization connected to this work. This page is a personal view of what I study and build.
 
@@ -25,10 +25,10 @@ I established **An0myl0u5 Research and Development** as an enterprise. [An0myl0u
 <p align="center">
   <img src="https://img.shields.io/badge/Network_%2F_%CE%A9m3gA-0b7285?style=for-the-badge" alt="An0myl0u5 Network and Ωm3gA" />
   <img src="https://img.shields.io/badge/An0m5--ARC-8957e5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LexiVibe-8957e5?style=for-the-badge" alt="LexiVibe" />
+  <img src="https://img.shields.io/badge/An0matr1X-3178C6?style=for-the-badge" alt="An0matr1X" />
   <img src="https://img.shields.io/badge/NHS_Dental-005EB8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/HolidaySmile_%F0%9F%98%83-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/An0matr1X-3178C6?style=for-the-badge" alt="An0matr1X" />
-  <img src="https://img.shields.io/badge/LexiVibe-8957e5?style=for-the-badge" alt="LexiVibe" />
 </p>
 
 ---
@@ -65,40 +65,49 @@ I established **An0myl0u5 Research and Development** as an enterprise. [An0myl0u
 
 <table>
   <tr>
+    <th align="left">Governance and identity</th>
+  </tr>
+  <tr>
     <td width="100%">
       <h3>🌐 An0myl0u5 Network / Ωm3gA</h3>
-      <p>A large-scale project exploring governance, identity and participation as connected public infrastructure. Ωm3gA brings the network's ideas into a shared interface.</p>
+      <p>A large-scale design for decentralised governance and identity, with geographic namespaces supporting participation and local decision-making.</p>
     </td>
   </tr>
   <tr>
-    <td width="100%">
-      <h3>🔬 <a href="https://github.com/An0myl0u5-Research">An0m5-ARC</a></h3>
-      <p>An open research platform for source-linked work, ongoing review and clear contributor attribution across disciplines.</p>
-    </td>
+    <th align="left">Research and intelligence</th>
   </tr>
   <tr>
     <td width="100%">
-      <h3>🦷 NHS Dental Booking System</h3>
-      <p>A dental access and booking concept bringing waiting lists, geography and clinical urgency into a clearer route to care.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%">
-      <h3>😃 HolidaySmile</h3>
-      <p>A calendar-led travel package builder connecting stays, boats and local experiences. Accessibility and personal constraints sit alongside cultural discovery and distinctive destinations.</p>
-      <p><a href="mailto:contact@holidaysmile.org">contact@holidaysmile.org</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%">
-      <h3>🧭 An0matr1X</h3>
-      <p>A software intelligence project connecting repository evidence, security signals and research into a more useful view of code and its history.</p>
+      <h3>🔬 An0m5-ARC</h3>
+      <p>A cross-domain research platform that organises source-cited documents, evidence and relationships across public-interest subjects.</p>
     </td>
   </tr>
   <tr>
     <td width="100%">
       <h3>🧩 LexiVibe</h3>
-      <p>A modular research tool and tooling interface for working with sources and ideas. It complements the An0m5-ARC research platform.</p>
+      <p>A modular research environment for examining language, symbols and evidence through analysis and graph-based views.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <h3>🧭 An0matr1X</h3>
+      <p>A GitHub code and contributor intelligence platform for examining contribution history, follower and following relationships, forks, and code complexity in relation to practical utility. Its anti-gaming work examines contributor manipulation and repository squatting, alongside wider supply-chain risk. README cards and an investigation workspace offer different ways to explore the evidence.</p>
+    </td>
+  </tr>
+  <tr>
+    <th align="left">Access and travel</th>
+  </tr>
+  <tr>
+    <td width="100%">
+      <h3>🦷 NHS Dental Booking System</h3>
+      <p>A dental access and booking system whose waiting-list and geographic matching logic considers clinical urgency, accessibility needs and patients’ personal constraints, including travel limits.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <h3>😃 HolidaySmile</h3>
+      <p>A calendar-led <strong>custom</strong> travel package builder combining itinerary planning with recommendation and pricing algorithms and availability checks. It foregrounds local culture, independent experiences and distinctive destinations.</p>
+      <p><a href="mailto:contact@holidaysmile.org">contact@holidaysmile.org</a></p>
     </td>
   </tr>
 </table>
