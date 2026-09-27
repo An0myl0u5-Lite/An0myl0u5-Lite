@@ -20,11 +20,7 @@ I'm An0myl0u5, a self-taught researcher and developer. I work on governance, res
 
 I established **An0myl0u5 Research and Development** as an enterprise. [An0myl0u5 Research](https://github.com/An0myl0u5-Research) is the research organization connected to this work. This page is a personal view of what I study and build.
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│ "Don't vibe your code, Code your vibe" — An0myl0u5          │
-└─────────────────────────────────────────────────────────────┘
-```
+<p align="center"><em>“Don't vibe your code, Code your vibe”</em> — An0myl0u5</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Network_%2F_%CE%A9m3gA-0b7285?style=for-the-badge" alt="An0myl0u5 Network and Ωm3gA" />
