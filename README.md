@@ -70,7 +70,8 @@ I established **An0myl0u5 Research and Development** as an enterprise. [An0myl0u
   <tr>
     <td width="100%">
       <h3>🌐 An0myl0u5 Network / Ωm3gA</h3>
-      <p>A large-scale design for decentralised governance and identity, with geographic namespaces supporting participation and local decision-making.</p>
+      <p>A sovereign digital infrastructure project bringing democratic governance, identity, user-controlled data and shared computing together around <strong>Economy, Ecology and Equality</strong>. Its aim is a non-disruptive democratic overlay through which communities can influence the decisions that affect them. The design centres on one person, one vote, privacy and the ability for each voter to verify their vote after the count.</p>
+      <p>The wider design connects local and specialist deliberation to public ratification, with transparent audits and accountable, removable trustees. People retain control of their data and what services may access; economic participation and redistribution are designed to widen opportunity while preserving equal public voting rights. The goal is lasting public infrastructure that resists concentrated power and systemic corruption.</p>
     </td>
   </tr>
   <tr>
@@ -79,13 +80,15 @@ I established **An0myl0u5 Research and Development** as an enterprise. [An0myl0u
   <tr>
     <td width="100%">
       <h3>🔬 An0m5-ARC</h3>
-      <p>A cross-domain research platform that organises source-cited documents, evidence and relationships across public-interest subjects.</p>
+      <p>An open, decentralised research and publication platform built around <strong>perpetual peer review</strong> and lasting credit for every contribution. It is designed so anyone can add evidence, challenge a claim, share firsthand or professional knowledge, refine existing work or correct a single word, without needing academic credentials. Attribution is preserved as the research evolves.</p>
+      <p>The aim is to reduce duplicated effort and grow a shared, verifiable body of knowledge across human rights, law, politics, economics, science, technology and beyond. Community review and tools for examining sources, bias and repeated narratives support that work. Versioned research, distributed preservation and connections to established archives and publishing services are intended to keep evidence accessible, auditable and resilient to censorship.</p>
     </td>
   </tr>
   <tr>
     <td width="100%">
       <h3>🧩 LexiVibe</h3>
-      <p>A modular research environment for examining language, symbols and evidence through analysis and graph-based views.</p>
+      <p>A modular <strong>research and tooling runtime</strong> for connecting sources, tools and disciplines in a configurable visual workspace. Its design supports <strong>one-to-many, many-to-one and any-to-any</strong> flows: send one source through several tools, combine inputs from different fields, and split or recombine outputs into further analysis.</p>
+      <p>Pluggable tools, bridges, transformers and aggregators let researchers compose and reuse workflows for their own questions. Sources, methods, provenance and uncertainty stay attached to results so relationships and conclusions can be explored, compared and challenged.</p>
     </td>
   </tr>
   <tr>
