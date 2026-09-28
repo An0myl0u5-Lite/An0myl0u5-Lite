@@ -16,9 +16,11 @@
   <img src="https://img.shields.io/badge/Based_in-UK%20%F0%9F%87%AC%F0%9F%87%A7-39d353?style=for-the-badge" alt="UK"/>
 </p>
 
-I'm An0myl0u5, a self-taught researcher and developer. I work on governance, research, identity, healthcare, travel and GitHub code and contributor intelligence, with a focus on making complex systems more useful and accountable to the people who rely on them.
+I’m An0myl0u5, a self-taught researcher and developer working across human rights, law, social mobility and technology. My aim is inclusion and equality: widening access to knowledge, services and opportunity, with privacy and accountability built into the systems people depend on.
 
-I established **An0myl0u5 Research and Development** as an enterprise. [An0myl0u5 Research](https://github.com/An0myl0u5-Research) is the research organization connected to this work. This page is a personal view of what I study and build.
+I want people to be able to contribute what they know, retain credit for their work, control their data and challenge decisions that affect their lives. That connects my research into evidence, governance and security with practical tools for healthcare and travel. I also examine how technologies can benefit people or enable harm, including attack surfaces and mitigation across foundational software and connected devices.
+
+I established **An0myl0u5 Research and Development** as an enterprise, with [**An0myl0u5 Research**](https://github.com/An0myl0u5-Research) as the connected research organisation.
 
 <p align="center"><em>“Don't vibe your code, Code your vibe”</em> — An0myl0u5</p>
 
@@ -65,22 +67,31 @@ I established **An0myl0u5 Research and Development** as an enterprise. [An0myl0u
 
 <table>
   <tr>
-    <th align="left">Governance and identity</th>
+    <th align="left">Governance, rights and shared infrastructure</th>
   </tr>
   <tr>
     <td width="100%">
       <h3>🌐 An0myl0u5 Network / Ωm3gA</h3>
       <p>A sovereign digital infrastructure project bringing democratic governance, identity, user-controlled data and shared computing together around <strong>Economy, Ecology and Equality</strong>. Its aim is a non-disruptive democratic overlay through which communities can influence the decisions that affect them. The design centres on one person, one vote, privacy and the ability for each voter to verify their vote after the count.</p>
-      <p>The wider design connects local and specialist deliberation to public ratification, with transparent audits and accountable, removable trustees. People retain control of their data and what services may access; economic participation and redistribution are designed to widen opportunity while preserving equal public voting rights. The goal is lasting public infrastructure that resists concentrated power and systemic corruption.</p>
+      <p>Through <strong>P2PV — push-to-public-vote</strong>, proposals developed within industrial, regulatory or other specialist communities can reach public authorisation when they create public obligations. The aim is to make consequential decisions answerable to the people affected, with equal public voting rights, verification after counting, privacy and accountable governance.</p>
+      <p>Transparent audits and accountable, removable trustees support this wider design. People retain control of their data and what services may access; economic participation and redistribution are designed to widen opportunity while preserving equal public voting rights. The goal is lasting public infrastructure that resists concentrated power and systemic corruption.</p>
     </td>
   </tr>
   <tr>
-    <th align="left">Research and intelligence</th>
+    <td width="100%">
+      <h3>⚖️ Trust, licensing and governance — including sAIfe</h3>
+      <p>A governance framework connecting trust stewardship, end-user agreements and contributor licensing with <strong>sAIfe — AI For Everyone</strong>. <strong>OSCC — Open Source Closed Contribution</strong> pairs publicly auditable source with vetted contribution to core infrastructure. <strong>CSCC — Closed Source Certified Contribution</strong> provides controlled access to security-sensitive source for certified inspection and contribution.</p>
+      <p>Together with sAIfe’s emphasis on human agency, consent, transparency and independent accountability, this work addresses how shared infrastructure is governed, contributed to and used.</p>
+    </td>
+  </tr>
+  <tr>
+    <th align="left">Research, evidence and security</th>
   </tr>
   <tr>
     <td width="100%">
       <h3>🔬 An0m5-ARC</h3>
-      <p>An open, decentralised research and publication platform built around <strong>perpetual peer review</strong> and lasting credit for every contribution. It is designed so anyone can add evidence, challenge a claim, share firsthand or professional knowledge, refine existing work or correct a single word, without needing academic credentials. Attribution is preserved as the research evolves.</p>
+      <p>An open, decentralised research and publication platform built around <strong>perpetual peer review</strong> and permanent attribution for every contribution. It is designed so anyone can add evidence, challenge a claim, share firsthand or professional knowledge, refine existing work or correct a single word, without needing academic credentials. Attribution is preserved as the research evolves.</p>
+      <p>Firsthand knowledge, professional practice and formal research can be examined together, with sources, disagreements and authorship preserved. People can contribute to a growing body of knowledge without their work or credit disappearing when others refine it.</p>
       <p>The aim is to reduce duplicated effort and grow a shared, verifiable body of knowledge across human rights, law, politics, economics, science, technology and beyond. Community review and tools for examining sources, bias and repeated narratives support that work. Versioned research, distributed preservation and connections to established archives and publishing services are intended to keep evidence accessible, auditable and resilient to censorship.</p>
     </td>
   </tr>
@@ -93,12 +104,25 @@ I established **An0myl0u5 Research and Development** as an enterprise. [An0myl0u
   </tr>
   <tr>
     <td width="100%">
+      <h3>🔎 Truth Serum Suite</h3>
+      <p>A source and evidence analysis suite for examining claims, tracing their origins, investigating bias and conflicts of interest, and distinguishing independent corroboration from repeated or coordinated narratives. Its purpose is to help researchers identify echo chambers and manufactured consensus while making the evidence and reasoning behind conclusions open to scrutiny. This work complements An0m5-ARC’s aim of keeping research open to continuing review and challenge.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
       <h3>🧭 An0matr1X</h3>
       <p>A GitHub code and contributor intelligence platform for examining contribution history, follower and following relationships, forks, and code complexity in relation to practical utility. Its anti-gaming work examines contributor manipulation and repository squatting, alongside wider supply-chain risk. README cards and an investigation workspace offer different ways to explore the evidence.</p>
     </td>
   </tr>
   <tr>
-    <th align="left">Access and travel</th>
+    <td width="100%">
+      <h3>🛡️ Foundational security research — Places Nobody Thought to Look</h3>
+      <p>A research programme examining overlooked risks in the code, dependencies, protocols and trust channels beneath everyday software. It traces recurring failure patterns and their wider consequences, including where connected devices and firmware turn digital weaknesses into physical risks.</p>
+      <p>The work connects investigation with audit priorities, practical mitigation, coordinated disclosure and the maintainer support needed to make security improvements last.</p>
+    </td>
+  </tr>
+  <tr>
+    <th align="left">Access, livelihoods and local knowledge</th>
   </tr>
   <tr>
     <td width="100%">
@@ -110,6 +134,7 @@ I established **An0myl0u5 Research and Development** as an enterprise. [An0myl0u
     <td width="100%">
       <h3>😃 HolidaySmile</h3>
       <p>A calendar-led <strong>custom</strong> travel package builder combining itinerary planning with recommendation and pricing algorithms and availability checks. It foregrounds local culture, independent experiences and distinctive destinations.</p>
+      <p>Its wider aim includes giving residents, farmers, fishers and local practitioners a voice in the history, economy and ecology of their communities—with credited contributions and space to compare local knowledge with published research and official records.</p>
       <p><a href="mailto:contact@holidaysmile.org">contact@holidaysmile.org</a></p>
     </td>
   </tr>
