@@ -20,7 +20,7 @@ I’m An0myl0u5, a self-taught researcher and developer working across human rig
 
 I want people to be able to contribute what they know, retain credit for their work, control their data and challenge decisions that affect their lives. That connects my research into evidence, governance and security with practical tools for healthcare and travel. I also examine how technologies can benefit people or enable harm, including attack surfaces and mitigation across foundational software and connected devices.
 
-I established **An0myl0u5 Research and Development** as an enterprise, with [**An0myl0u5 Research**](https://github.com/An0myl0u5-Research) as the connected research organisation.
+I established **An0myl0u5 Research and Development Ltd**, with [**An0myl0u5 Research**](https://github.com/An0myl0u5-Research) as the connected research organisation.
 
 <p align="center"><em>“Don't vibe your code, Code your vibe”</em> — An0myl0u5</p>
 
@@ -178,7 +178,7 @@ I established **An0myl0u5 Research and Development** as an enterprise, with [**A
 ## 🔗 Connect
 
 <p align="center">
-  <a href="mailto:Research@An0myl0u5.org"><img src="https://img.shields.io/badge/Email-Research%40An0myl0u5.org-0b7285?style=for-the-badge&logo=gmail&logoColor=white" alt="Research email" /></a>
+  <a href="mailto:Research@An0myl0u5.org"><img src="https://img.shields.io/badge/Research-Research%40An0myl0u5.org-0b7285?style=for-the-badge&logo=gmail&logoColor=white" alt="Research enquiries and collaboration" /></a>
   <a href="https://github.com/An0myl0u5-Lite"><img src="https://img.shields.io/badge/GitHub-An0myl0u5--Lite-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
   <a href="https://github.com/An0myl0u5-Research"><img src="https://img.shields.io/badge/Research_Org-An0myl0u5--Research-8957e5?style=for-the-badge&logo=github" alt="An0myl0u5 Research organization" /></a>
   <a href="https://orcid.org/0009-0001-8919-4846"><img src="https://img.shields.io/badge/ORCID-0009--0001--8919--4846-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID profile" /></a>
@@ -194,6 +194,17 @@ I also write [OSINT and OpSec research notes](https://github.com/An0myl0u5-Lite/
 - I built the early An0myl0u5 prototype on a Samsung S20 phone, before I had a laptop for the work.
 - I taught myself across blockchain, cryptography, distributed systems, economics and political science, among other fields.
 - I care about governance as a public good, with privacy, verifiable participation and accountability built in.
+
+## Company information
+
+**An0myl0u5 Research and Development Ltd**<br>
+Registered in England and Wales · Company number **17555705**
+
+**Registered office**<br>
+Ground Floor, 108-112 Main Road<br>
+Sundridge<br>
+Sevenoaks<br>
+TN14 6ES
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=100&section=footer" />
