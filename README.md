@@ -200,6 +200,8 @@ I also write [OSINT and OpSec research notes](https://github.com/An0myl0u5-Lite/
 **An0myl0u5 Research and Development Ltd**<br>
 Registered in England and Wales · Company number **17555705**
 
+**Company and frontend enquiries:** [contact@an0myl0u5.com](mailto:contact@an0myl0u5.com)
+
 **Registered office**<br>
 Ground Floor, 108-112 Main Road<br>
 Sundridge<br>
